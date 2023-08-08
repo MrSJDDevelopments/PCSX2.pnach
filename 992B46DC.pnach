@@ -1,0 +1,226 @@
+##############################################################################
+########################### 007 - Agent Under Fire ###########################
+################################## 38 Cheats #################################
+##############################################################################
+
+[Cheats\Others\Disable Alarms]
+author=MrSJDDevelopments
+description=Alarms Don't Work
+patch=1,EE,202A7C50,extended,AE210018
+
+[Cheats\Others\Kill Missions]
+author=MrSJDDevelopments
+description=Kill Mission Timers
+patch=1,EE,2017D6BC,extended,00000000
+
+[Cheats\Others\Widescreen]
+author=MrSJDDevelopments
+description=Widescreen Hack
+patch=1,EE,207F770C,extended,3FAAAAAB
+
+[Cheats\Others\Streached]
+author=MrSJDDevelopments
+description=Stretched Mode
+patch=1,EE,EE04AF6A,extended,1035D466
+
+[Cheats\Others\Multi Jump]
+author=MrSJDDevelopments
+description=Super Multi-Jump
+patch=1,EE,20269908,extended,00000000
+
+[Cheats\Others\Rapid Fire]
+author=MrSJDDevelopments
+description=Unlock Rapid Fire
+patch=1,EE,10101FC4,extended,00000001
+
+[Cheats\Others\All Levels]
+author=MrSJDDevelopments
+description=Unlock All Levels
+patch=1,EE,10101F14,extended,0000000B
+
+[Cheats\Others\Gravity Boots]
+author=MrSJDDevelopments
+description=Unlock Gravity Boots Multiplayer Powerup
+patch=1,EE,10101F84,extended,00000001
+
+[Cheats\Others\Lotus Esprit]
+author=MrSJDDevelopments
+description=Unlock Lotus Esprit car
+patch=1,EE,10101FC0,extended,00000001
+
+[Cheats\Others\Rocker Manor Map]
+author=MrSJDDevelopments
+description=Unlock Rocket Manor Multiplayer Map
+patch=1,EE,10101F78,extended,00000001
+
+
+
+##############################################################################
+################################### Golden ###################################
+##############################################################################
+
+[Cheats\Golden\Accuracy]
+author=MrSJDDevelopments
+description=Unlock Golden Accuracy
+patch=1,EE,10101FB4,extended,00000001
+
+[Cheats\Golden\Bullets]
+author=MrSJDDevelopments
+description=Unlock Golden Bullets
+patch=1,EE,10101FCC,extended,00000001
+
+[Cheats\Golden\Ch-6]
+author=MrSJDDevelopments
+description=Unlock Golden Ch-6
+patch=1,EE,10101FAC,extended,00000001
+
+[Cheats\Golden\Grenades]
+author=MrSJDDevelopments
+description=Unlock Golden Grenades
+patch=1,EE,10101FBC,extended,00000001
+
+[Cheats\Golden\Gun]
+author=MrSJDDevelopments
+description=Unlock Golden Gun
+patch=1,EE,10101FA8,extended,00000001
+
+[Cheats\Golden\Gun Multiplayer]
+author=MrSJDDevelopments
+description=Unlock Golden Gun Multiplayer
+patch=1,EE,10101F7C,extended,00000001
+
+[Cheats\Golden\Clip]
+author=MrSJDDevelopments
+description=Unlock Golden Clip
+patch=1,EE,10101FB8,extended,00000001
+
+[Cheats\Golden\Gold Armour]
+author=MrSJDDevelopments
+description=Unlock Golden Armour
+patch=1,EE,10101FC8,extended,00000001
+
+
+
+#############################################################################
+############################## Health / Armour ##############################
+#############################################################################
+
+[Cheats\Health & Armour\Health\Max 1 Life]
+author=MrSJDDevelopments
+description=Never Have More Than 1 Life
+patch=1,EE,D010009C,extended,00500001
+patch=1,EE,1010009C,extended,00000001
+
+[Cheats\Health & Armour\Health\Max 3 Lives]
+author=MrSJDDevelopments
+description=Never Have More Than 3 Lives
+patch=1,EE,D010009C,extended,00500003
+patch=1,EE,1010009C,extended,00000003
+
+[Cheats\Health & Armour\Health\Max 5 Lives]
+author=MrSJDDevelopments
+description=Never Have More Than 5 Lives
+patch=1,EE,D010009C,extended,00500005
+patch=1,EE,1010009C,extended,00000005
+
+[Cheats\Health & Armour\Health\Max 10 Lives]
+author=MrSJDDevelopments
+description=Never Have More Than 10 Lives
+patch=1,EE,D010009C,extended,0050000A
+patch=1,EE,1010009C,extended,0000000A
+
+[Cheats\Health & Armour\Health\Give 999 Lives]
+author=MrSJDDevelopments
+description=Have 999 Lives
+patch=1,EE,1010009C,extended,000003E7
+
+[Cheats\Health & Armour\Health\Infinite Lives]
+author=MrSJDDevelopments
+description=Infinite Lives (action)
+patch=1,EE,0037F790,extended,00000009
+patch=1,EE,202D7DF8,extended,00000040
+
+[Cheats\Health & Armour\Armour\Regen Armour]
+author=MrSJDDevelopments
+description=Unlock Regenerative Armour
+patch=1,EE,10101FD0,extended,00000001
+
+
+
+
+############################################################################
+############################## Weapons / Ammo ##############################
+############################################################################
+
+[Cheats\Weapons & Ammo\Ammo\Infinite Ammo]
+author=MrSJDDevelopments
+description=Unlimited Ammo
+patch=1,EE,10101FD4,extended,00000001
+
+[Cheats\Weapons & Ammo\Ammo\Infinite Player Ammo]
+author=MrSJDDevelopments
+description=Infinite Ammo & No Reload (action)
+patch=1,EE,20258420,extended,00000040
+patch=1,EE,202D7DF8,extended,00000040
+
+[Cheats\Weapons & Ammo\Ammo\Infinite Driving Ammo]
+author=MrSJDDevelopments
+description=Infinite Ammo & No Reload (driving)
+patch=1,EE,1015388E,extended,00000000
+patch=1,EE,101538C2,extended,00000000
+
+[Cheats\Weapons & Ammo\Weapons\Calypso]
+author=MrSJDDevelopments
+description=Unlock Calypso Multiplayer Weapon
+patch=1,EE,10101F94,extended,00000001
+
+[Cheats\Weapons & Ammo\Weapons\Unlimited Missiles]
+author=MrSJDDevelopments
+description=Unlock Unlimited Missiles
+patch=1,EE,10101FB0,extended,00000001
+
+[Cheats\Weapons & Ammo\Weapons\Viper Revolver]
+author=MrSJDDevelopments
+description=Unlock Viper Revolver Multiplayer Weapon
+patch=1,EE,10101F8C,extended,00000001
+
+[Cheats\Weapons & Ammo\Weapons\Full Arsenal]
+author=MrSJDDevelopments
+description=Unlock Full Arsenal Multiplayer
+patch=1,EE,10101F98,extended,00000001
+
+
+
+############################################################################
+################################## Models ##################################
+############################################################################
+
+[Cheats\Models\Alpine Guard]
+author=MrSJDDevelopments
+description=Unlock Alpine Guard Multiplayer Model
+patch=1,EE,10101F90,extended,00000001
+
+[Cheats\Models\Carrier Guard]
+author=MrSJDDevelopments
+description=Unlock Carrier Guard Multiplayer Model
+patch=1,EE,10101FA4,extended,00000001
+
+[Cheats\Models\Cyclops Oil Guard]
+author=MrSJDDevelopments
+description=Unlock Cyclops Oil Guard Multiplayer Model
+patch=1,EE,10101F9C,extended,00000001
+
+[Cheats\Models\Guard]
+author=MrSJDDevelopments
+description=Unlock Guard Multiplayer Model
+patch=1,EE,10101F88,extended,00000001
+
+[Cheats\Models\Poseidon Guard]
+author=MrSJDDevelopments
+description=Unlock Poseidon Guard Multiplayer Model
+patch=1,EE,10101FA0,extended,00000001
+
+[Cheats\Models\Stealth Bond]
+author=MrSJDDevelopments
+description=Unlock Stealth Bond Multiplayer
+patch=1,EE,10101F80,extended,00000001
