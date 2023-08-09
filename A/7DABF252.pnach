@@ -1,0 +1,21 @@
+#############################################################################
+########################## Astro Boy - The Video Game #######################
+################################## 03 Cheats ################################
+################################### PAL - M #################################
+#############################################################################
+
+[Cheats\99 Supers]
+author=MrSJDDevelopments
+description=Have 99 Supers
+patch=1,EE,01C89DA8,extended,00000063
+
+[Cheats\NTSC Patch]
+author=MrSJDDevelopments
+description=PAL2NTSC
+patch=1,EE,201CDB38,extended,24120002
+
+[Cheats\All Cheats]
+author=MrSJDDevelopments
+description=Unlock All Cheats
+patch=1,EE,00368E23,extended,000000FF
+patch=1,EE,00368E24,extended,000000FF

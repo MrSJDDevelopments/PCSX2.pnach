@@ -1,0 +1,49 @@
+#############################################################################
+############################# ATV Offroad Fury 3 ############################
+################################## 08 Cheats ################################
+################################### PAL - M #################################
+#############################################################################
+
+[Patch\Opponent Modifier 1]
+author=MrSJDDevelopments
+description=Opponent Modifier 1
+patch=1,EE,006F3978,extended,00000001
+
+[Patch\Opponent Modifier 2]
+author=MrSJDDevelopments
+description=Opponent Modifier 2
+patch=1,EE,006F3978,extended,00000002
+
+[Patch\Opponent Modifier 3]
+author=MrSJDDevelopments
+description=Opponent Modifier 3
+patch=1,EE,006F3978,extended,00000003
+
+[Patch\Opponent Modifier 4]
+author=MrSJDDevelopments
+description=Opponent Modifier 4
+patch=1,EE,006F3978,extended,00000004
+
+[Patch\No AI]
+author=MrSJDDevelopments
+description=Disable A.I
+patch=1,EE,006F3970,extended,00000001
+
+[Patch\No AI Catchup]
+author=MrSJDDevelopments
+description=Disable A.I. Catchup
+patch=1,EE,006F3974,extended,00000001
+
+[Patch\Unlock Everything]
+author=MrSJDDevelopments
+description=Everything Available
+patch=1,EE,2022F7E0,extended,24020001
+patch=1,EE,2022F7E4,extended,AC820004
+patch=1,EE,2022F7EC,extended,24020000
+
+[Patch\Max Credit]
+author=MrSJDDevelopments
+description=Max Credits (Go To Shop To Activate)
+patch=1,EE,20199B38,extended,3C03005F
+patch=1,EE,20199B48,extended,AC430034
+patch=1,EE,20199B50,extended,24130000
