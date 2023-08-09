@@ -1,0 +1,34 @@
+##############################################################################
+######################### ATV - Quad Power Racing 2 ##########################
+################################## 05 Cheats #################################
+################################### PAL - E ##################################
+##############################################################################
+
+[Cheats\All ATV]
+author=MrSJDDevelopments
+description=All ATVs Are Unlocked
+patch=1,EE,1089D984,extended,000007FF
+
+[Cheats\All Raiders]
+author=MrSJDDevelopments
+description=All Riders Are Unlocked
+patch=1,EE,2089D988,extended,FFFFFFFF
+patch=1,EE,EEE2A2E2,extended,51B6D565
+
+[Cheats\All Tracks]
+author=MrSJDDevelopments
+description=All Tracks Unlocked
+patch=1,EE,2089D980,extended,00007FFF
+patch=1,EE,EEE2A25A,extended,50B55565
+
+[Cheats\Player 1 Monster Score]
+author=MrSJDDevelopments
+description=Player 1 has Monster Score
+patch=1,EE,EEF3EEE6,extended,51B8B465
+patch=1,EE,EEF3F376,extended,51B8B465
+patch=1,EE,20788594,extended,05F5E0FF
+
+[Cheats\Player 2 Monster Score]
+author=MrSJDDevelopments
+description=Player 2 Has A Monster Score
+patch=1,EE,20788A24,extended,05F5E0FF
