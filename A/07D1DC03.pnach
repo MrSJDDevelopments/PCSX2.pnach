@@ -1,0 +1,16 @@
+##############################################################################
+#################### Airborne Troops - Countdown to D-Day ####################
+################################## 02 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\Unlimited Health]
+author=MrSJDDevelopments
+description=Infinite Health
+patch=1,EE,20371660,extended,24010190
+patch=1,EE,20371664,extended,AC4100E4
+
+[Cheats\No Reload]
+author=MrSJDDevelopments
+description=Never Reload
+patch=1,EE,203F1240,extended,00000000
