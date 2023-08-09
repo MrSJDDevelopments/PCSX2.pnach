@@ -22,7 +22,7 @@ patch=1,EE,20384188,extended,00000000
 ############################## Health / Armour ##############################
 #############################################################################
 
-[Cheats\Health & Armour\Invincible
+[Cheats\Health & Armour\Invincible]
 author=MrSJDDevelopments
 description=Invincibility
 patch=1,EE,203708BC,extended,34100010
