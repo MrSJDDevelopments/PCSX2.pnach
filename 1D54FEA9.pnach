@@ -1,0 +1,31 @@
+##############################################################################
+######################### Ace Combat - Squadron Leader #######################
+################################## 05 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\Weapons\Unlimited Bombs]
+author=MrSJDDevelopments
+description=Infinite Bombs/Secondary Missiles
+patch=1,EE,2012964C,extended,00000000
+
+[Cheats\Weapons\Unlimited Missiles]
+author=MrSJDDevelopments
+description=Infinite Missiles
+patch=1,EE,20127D7C,extended,00000000
+
+[Cheats\Weapons\Instant bomb & Secondary missile]
+author=MrSJDDevelopments
+description=Instant Bomb/Secondary Missile Reload Time
+patch=1,EE,20128F84,extended,00000000
+
+[Cheats\Weapons\Instant Missile]
+author=MrSJDDevelopments
+description=Instant Missile Reload Time
+patch=1,EE,201275D8,extended,00000000
+patch=1,EE,20127664,extended,00000000
+
+[Cheats\Own A Plane]
+author=MrSJDDevelopments
+description=Purchase A Plane For Lots Of Cash
+patch=1,EE,2029E878,extended,3C0305F5
