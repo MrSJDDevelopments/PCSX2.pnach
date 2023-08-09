@@ -1,0 +1,31 @@
+#############################################################################
+###################### Animaniacs - The Great Edgar Hunt ####################
+################################## 05 Cheats ################################
+################################### PAL - M #################################
+#############################################################################
+
+[Cheats\Health\Unlimited Health]
+author=MrSJDDevelopments
+description=Infinite Health
+patch=1,EE,201D2644,extended,00000000
+
+[Cheats\Health\Unlimited Health Minigame]
+author=MrSJDDevelopments
+description=Infinite Lives
+patch=1,EE,20215D18,extended,00000000
+
+
+[Cheats\Weapons\Unlimited Lightning gun]
+author=MrSJDDevelopments
+description=Infinite Lightning Gun
+patch=1,EE,201CAD18,extended,00000000
+
+[Cheats\GOD]
+author=MrSJDDevelopments
+description=Invincibility
+patch=1,EE,2013CFFC,extended,34020000
+
+[Cheats\Mid Jump]
+author=MrSJDDevelopments
+description=Jump in Midair
+patch=1,EE,20129C50,extended,1080FFB3

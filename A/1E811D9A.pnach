@@ -1,0 +1,59 @@
+#############################################################################
+#################### Alone in the Dark - The New Nightmare ##################
+################################## 10 Cheats ################################
+################################### PAL - M #################################
+#############################################################################
+
+[Cheats\All Items]
+author=MrSJDDevelopments
+description=All Items Available
+patch=1,EE,20258E68,extended,24020035
+
+[Cheats\Unlock All]
+author=MrSJDDevelopments
+description=All Weapons, Items, Infinite Health And Ammo
+patch=1,EE,20264678,extended,2402FFFF
+patch=1,EE,20264684,extended,2402FFFF
+
+[Cheats\Beacon]
+author=MrSJDDevelopments
+description=Beacon Carnby
+patch=1,EE,10ACF3C8,extended,00000001
+
+[Cheats\No Switch Off]
+author=MrSJDDevelopments
+description=Can't Turn Torch Off
+patch=1,EE,10BCB584,extended,00000001
+
+[Cheats\Carnby Ready]
+author=MrSJDDevelopments
+description=Carnby Ready To Run
+patch=1,EE,10BD7F5C,extended,00000008
+
+[Cheats\Cyborg Eyes]
+author=MrSJDDevelopments
+description=Cyborg Eyes Carnby
+patch=1,EE,1069DF08,extended,00000001
+
+[Cheats\I Am God]
+author=MrSJDDevelopments
+description=God Mode
+patch=1,EE,2024BA68,extended,24030015
+
+[Cheats\Weapons & Ammo\Unlimited Ammo]
+author=MrSJDDevelopments
+description=Infinite Ammo (Guns)
+patch=1,EE,2025F1D4,extended,00000000
+
+[Cheats\Weapons & Ammo\Unlimited Revolver Ammo]
+author=MrSJDDevelopments
+description=Infinite Revolver Ammo
+patch=1,EE,10BCB77C,extended,00000012
+patch=1,EE,10BCB8BC,extended,00000012
+
+[Cheats\Health\Unlimited Health]
+author=MrSJDDevelopments
+description=Infinite Health
+patch=1,EE,10BCB58C,extended,00000064
+patch=1,EE,10BCB6CC,extended,00000064
+
