@@ -1,0 +1,130 @@
+##############################################################################
+###################### Alex Ferguson Player Manager 2002 #####################
+################################## 21 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\Points\Arsenal]
+author=MrSJDDevelopments
+description=Arsenal - 99 Points
+patch=1,EE,104F97E0,extended,00000063
+patch=1,EE,104F97E0,extended,00000063
+
+[Cheats\Points\Aston Villa]
+author=MrSJDDevelopments
+description=Aston Villa - 99 Points
+patch=1,EE,104F97FA,extended,00000063
+patch=1,EE,104F97FA,extended,00000063
+
+[Cheats\Points\Blackburn]
+author=MrSJDDevelopments
+description=Blackburn - 99 Points
+patch=1,EE,104F987C,extended,00000063
+patch=1,EE,104F987C,extended,00000063
+
+[Cheats\Points\Bolton]
+author=MrSJDDevelopments
+description=Bolton - 99 Points
+patch=1,EE,104F98B0,extended,00000063
+patch=1,EE,104F98B0,extended,00000063
+
+[Cheats\Points\Charlton]
+author=MrSJDDevelopments
+description=Charlton - 99 Points
+patch=1,EE,00000000,extended,00000063
+patch=1,EE,203EC1D0,extended,055D4A80
+patch=1,EE,203EC1D0,extended,055D4A80
+
+[Cheats\Points\Chelsea]
+author=MrSJDDevelopments
+description=Chelsea - 99 Points
+patch=1,EE,104F9A1C,extended,00000063
+patch=1,EE,104F9A1C,extended,00000063
+
+[Cheats\Points\Derby]
+author=MrSJDDevelopments
+description=Derby - 99 Points
+patch=1,EE,104F9AEC,extended,00000063
+patch=1,EE,104F9AEC,extended,00000063
+
+[Cheats\Points\Everton]
+author=MrSJDDevelopments
+description=Everton - 99 Points
+patch=1,EE,104F9B3A,extended,00000063
+patch=1,EE,104F9B3A,extended,00000063
+
+[Cheats\Points\Fulham]
+author=MrSJDDevelopments
+description=Fulham - 99 Points
+patch=1,EE,104F9B88,extended,00000063
+patch=1,EE,104F9B88,extended,00000063
+
+[Cheats\Points\Ipswich]
+author=MrSJDDevelopments
+description=Ipswich Have 99 Points
+patch=1,EE,104F9CA6,extended,00000063
+patch=1,EE,104F9CA6,extended,00000063
+
+[Cheats\Points\Leeds]
+author=MrSJDDevelopments
+description=Leeds - 99 Points
+patch=1,EE,104F9C90,extended,00000063
+patch=1,EE,104F9C90,extended,00000063
+
+[Cheats\Points\Leicester]
+author=MrSJDDevelopments
+description=Leicester - 99 Points
+patch=1,EE,104F9D0E,extended,00000063
+patch=1,EE,104F9D0E,extended,00000063
+
+[Cheats\Points\Liverpool]
+author=MrSJDDevelopments
+description=Liverpool - 99 Points
+patch=1,EE,104F9D5C,extended,00000063
+patch=1,EE,104F9D5C,extended,00000063
+
+[Cheats\Points\Man Utd]
+author=MrSJDDevelopments
+description=Man Utd - 99 Points
+patch=1,EE,104F9DC4,extended,00000063
+patch=1,EE,104F9DC4,extended,00000063
+
+[Cheats\Points\Middlesborough]
+author=MrSJDDevelopments
+description=Middlesborough - 99 Points
+patch=1,EE,104F9DF8,extended,00000063
+patch=1,EE,104F9DF8,extended,00000063
+
+[Cheats\Points\Newcastle]
+author=MrSJDDevelopments
+description=Newcastle - 99 Points
+patch=1,EE,104F9E46,extended,00000063
+patch=1,EE,104F9E46,extended,00000063
+
+[Cheats\Points\Southampton]
+author=MrSJDDevelopments
+description=Southampton - 99 Points
+patch=1,EE,104FA0B6,extended,00000063
+patch=1,EE,104FA0B6,extended,00000063
+
+[Cheats\Points\Spurs]
+author=MrSJDDevelopments
+description=Spurs - 99 Points
+patch=1,EE,104FA1EE,extended,00000063
+
+[Cheats\Points\Sunderland]
+author=MrSJDDevelopments
+description=Sunderland - 99 Points
+patch=1,EE,104FA16C,extended,00000063
+patch=1,EE,104FA16C,extended,00000063
+
+[Cheats\Points\Tottenham Hotspur]
+author=MrSJDDevelopments
+description=Tottenham Hotspur Have 99 Points
+patch=1,EE,104FA1EE,extended,00000063
+
+[Cheats\Points\West Ham]
+author=MrSJDDevelopments
+description=West Ham - 99 Points
+patch=1,EE,104FA28A,extended,00000063
+patch=1,EE,104FA28A,extended,00000063
