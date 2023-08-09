@@ -1,0 +1,21 @@
+##############################################################################
+######################### Ace Combat - The Belkan War ########################
+################################## 03 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\Weapons\Unlimited Missiles]
+author=MrSJDDevelopments
+description=Infinite Missiles by Codejunkies
+patch=1,EE,20230F60,extended,25EF0000
+
+[Cheats\Weapons\Unlimited Special Weapon]
+author=MrSJDDevelopments
+description=Infinite Special Weapons by Codejunkies
+patch=1,EE,20233BAC,extended,25EF0000
+
+[Cheats\Unlimited Funds]
+author=MrSJDDevelopments
+description=Press L1+ L2 For Infinite Funds by Codejunkies
+patch=1,EE,D069951C,extended,0000FAFF
+patch=1,EE,203B4F68,extended,05F5E0FF
