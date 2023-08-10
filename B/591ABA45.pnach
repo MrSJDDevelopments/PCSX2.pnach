@@ -1,0 +1,299 @@
+##############################################################################
+############################## Batman - Vengeance ############################
+################################## 14 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\God]
+author=MrSJDDevelopments
+description=Godmode and no reaction to hurts Speedcraft
+patch=1,EE,206663D4,extended,10000004
+
+[Cheats\Take to safety]
+author=MrSJDDevelopments
+description=If timer goes to zero you can still take to safety Double H
+patch=1,EE,203BB8EC,extended,00000000
+
+[Cheats\Military Cant See You]
+author=MrSJDDevelopments
+description=Invisible to the military
+patch=1,EE,2027FA00,extended,03E00008
+patch=1,EE,2027FA04,extended,00000000
+patch=1,EE,202F3670,extended,03E00008
+patch=1,EE,202F3674,extended,00000000
+patch=1,EE,20687290,extended,03E00008
+patch=1,EE,20687294,extended,00000000
+
+[Cheats\No gyrodisc]
+author=MrSJDDevelopments
+description=Launch discs even without the gyrodisc
+patch=1,EE,202442CC,extended,00000000
+
+[Cheats\Low gravity]
+author=MrSJDDevelopments
+description=Low gravity/moonjump speedcraft
+patch=1,EE,2050ACE0,extended,E60D0020
+patch=1,EE,2050ABC4,extended,00000000
+
+[Cheats\No special keys]
+author=MrSJDDevelopments
+description=Open doors even without special keys
+patch=1,EE,202DDB54,extended,00000000
+
+[Cheats\No fuses]
+author=MrSJDDevelopments
+description=Use fuses even when you don't have any
+patch=1,EE,203DFF80,extended,00000000
+
+[Cheats\Opponents don't move]
+author=MrSJDDevelopments
+description=Opponents don't move in races
+patch=1,EE,20509118,extended,8E030000
+patch=1,EE,2050911C,extended,10600003
+
+[Cheats\Super zoom]
+author=MrSJDDevelopments
+description=Super zoom camera
+patch=1,EE,203B11B4,extended,00000000
+patch=1,EE,203B0F88,extended,3C02BF62
+
+[Cheats\Double Speed]
+author=MrSJDDevelopments
+description=Turbo speedcraft speed doubled
+patch=1,EE,2034100C,extended,3C024040
+patch=1,EE,20341010,extended,34420000
+patch=1,EE,20341028,extended,E6800140
+patch=1,EE,2025F478,extended,3C034040
+patch=1,EE,2025F480,extended,34630000
+patch=1,EE,20342910,extended,00000000
+patch=1,EE,203427BC,extended,00000000
+
+[Cheats\Untouchable - J]
+author=MrSJDDevelopments
+description=Untouchable - Jade only
+patch=1,EE,203C6230,extended,10000013
+patch=1,EE,203C6284,extended,1000001D
+patch=1,EE,203C674C,extended,10000077
+patch=1,EE,203C6930,extended,10000041
+patch=1,EE,203C6A38,extended,10000031
+patch=1,EE,203C6C80,extended,10000069
+
+[Cheats\Untouchable - P]
+author=MrSJDDevelopments
+description=Untouchable - PeyJ only
+patch=1,EE,205D1560,extended,03E00008
+patch=1,EE,205D1564,extended,00000000
+
+
+
+
+##############################################################################
+################################### 1 HIT  ###################################
+##############################################################################
+
+[Cheats\1 Hit\Kill Sacorphagus]
+author=MrSJDDevelopments
+description=1HitKill DomZ boss of metal
+patch=1,EE,2030E3BC,extended,24C6007F
+
+[Cheats\1 Hit\Kill Sacorphagus]
+author=MrSJDDevelopments
+description=1HitKill DomZ Zacorphagus
+patch=1,EE,204D33BC,extended,00000000
+
+[Cheats\1 Hit\Kill First Boss]
+author=MrSJDDevelopments
+description=1HitKill first boss
+patch=1,EE,2028B678,extended,2442007F
+
+[Cheats\1 Hit\Stun Military]
+author=MrSJDDevelopments
+description=1HitStunning military
+patch=1,EE,20689168,extended,00000000
+
+
+
+
+##############################################################################
+################################ Always Have #################################
+##############################################################################
+
+[Cheats\Always Have\Alpha Sections Ticket]
+author=MrSJDDevelopments
+description=Always have Alpha Sections Ticket
+patch=1,EE,20D301B0,extended,00000001
+
+[Cheats\Always Have\Ticket room 3]
+author=MrSJDDevelopments
+description=Always have Ticket room 3
+patch=1,EE,20D3013C,extended,00000001
+
+[Cheats\Always Have\Animal detector]
+author=MrSJDDevelopments
+description=Always have Animal detector
+patch=1,EE,20D30140,extended,00000001
+
+[Cheats\Always Have\City Pass]
+author=MrSJDDevelopments
+description=Always have City Pass
+patch=1,EE,20D30110,extended,00000001
+
+[Cheats\Always Have\Flight stabilizer]
+author=MrSJDDevelopments
+description=Always have Flight stabilizer
+patch=1,EE,20D30128,extended,00000001
+
+[Cheats\Always Have\Fuse]
+author=MrSJDDevelopments
+description=Always have Fuse
+patch=1,EE,20D30100,extended,00000001
+
+[Cheats\Always Have\Gyrodisk glove]
+author=MrSJDDevelopments
+description=Always have Gyrodisk glove
+patch=1,EE,20D30120,extended,00000001
+
+[Cheats\Always Have\Jet Boots]
+author=MrSJDDevelopments
+description=Always have Jet Boots
+patch=1,EE,20D3016C,extended,00000001
+patch=1,EE,EE5C7A3E,extended,50B5D467
+patch=1,EE,20D3016C,extended,00000001
+
+[Cheats\Always Have\Jump Kit]
+author=MrSJDDevelopments
+description=Have Jump Kit
+patch=1,EE,EE5C7AE2,extended,50B5D467
+patch=1,EE,20D30188,extended,00000001
+
+[Cheats\Always Have\Mirror]
+author=MrSJDDevelopments
+description=Always have Mirror
+patch=1,EE,20D30124,extended,00000001
+
+[Cheats\Always Have\PA 1]
+author=MrSJDDevelopments
+description=Always have PA 1
+patch=1,EE,20D30168,extended,00000001
+
+[Cheats\Always Have\Pearl detector]
+author=MrSJDDevelopments
+description=Always have Pearl detector
+patch=1,EE,20D30144,extended,00000001
+
+[Cheats\Always Have\Square Key]
+author=MrSJDDevelopments
+description=Always have Square Key
+patch=1,EE,20D30150,extended,00000001
+
+[Cheats\Always Have\Star Key]
+author=MrSJDDevelopments
+description=Always have Star Key
+patch=1,EE,20D30158,extended,00000001
+
+[Cheats\Always Have\Triangular Key]
+author=MrSJDDevelopments
+description=Always Have Triangular Key
+patch=1,EE,20D3014C,extended,00000001
+
+[Cheats\Always Have\Stellar Motor]
+author=MrSJDDevelopments
+description=Always have Stellar Motor
+patch=1,EE,20D301A4,extended,00000001
+patch=1,EE,EE5C7AF6,extended,50B5D467
+patch=1,EE,20D301A4,extended,00000001
+
+[Cheats\Always Have\Speedcraft Motor]
+author=MrSJDDevelopments
+description=Have Speedcraft Motor
+patch=1,EE,EE5C7AEE,extended,50B5D467
+patch=1,EE,20D3019C,extended,00000001
+
+[Cheats\Always Have\Super Attack Strength]
+author=MrSJDDevelopments
+description=Always have Super Attack Strength
+patch=1,EE,20D30174,extended,00000001
+
+[Cheats\Always Have\Compass]
+author=MrSJDDevelopments
+description=Have Compass
+patch=1,EE,EE5C7AFA,extended,50B5D467
+patch=1,EE,20D301A0,extended,00000001
+
+[Cheats\Always Have\Neutralizing Cannon]
+author=MrSJDDevelopments
+description=Have Neutralizing Cannon
+patch=1,EE,EE5C7AEA,extended,50B5D467
+patch=1,EE,20D30190,extended,00000001
+
+
+
+
+##############################################################################
+#################################### Money ###################################
+##############################################################################
+
+[Cheats\Money\No Pearls Buy]
+author=MrSJDDevelopments
+description=Buy even without pearls
+patch=1,EE,202A3AF8,extended,00000000
+patch=1,EE,202AFD50,extended,00000000
+patch=1,EE,202B0658,extended,1000000B
+patch=1,EE,20243800,extended,00000000
+
+[Cheats\Money\No Money Bet]
+author=MrSJDDevelopments
+description=bet even without money
+patch=1,EE,20449894,extended,00000000
+patch=1,EE,202A1D4C,extended,00000000
+patch=1,EE,204E80F8,extended,00000000
+patch=1,EE,2034FCB8,extended,10000018
+patch=1,EE,202A1C34,extended,3C150010
+
+[Cheats\Money\Easy-unit Max]
+author=MrSJDDevelopments
+description=Easy-unit Card Maxed
+patch=1,EE,EE5D82F2,extended,50B44E85
+patch=1,EE,20D2F998,extended,0001869F
+
+
+
+
+##############################################################################
+################################## Infinite ##################################
+##############################################################################
+[Cheats\Infinite\Unlimited H-Craft Boost Capsules]
+author=MrSJDDevelopments
+description=Infinite H-Craft Boost Capsules
+patch=1,EE,EE5C7ADE,extended,50B5D463
+patch=1,EE,20D3018C,extended,00000005
+
+[Cheats\Infinite\Unlimited Massive Health]
+author=MrSJDDevelopments
+description=Infinite Massive Health
+patch=1,EE,EE5D82E2,extended,1095D466
+patch=1,EE,20D2F988,extended,44200000
+
+[Cheats\Infinite\Unlimited Pa1]
+author=MrSJDDevelopments
+description=Infinite Pa1
+patch=1,EE,EE5C7A42,extended,50B5D476
+patch=1,EE,20D30168,extended,00000010
+
+[Cheats\Infinite\Unlimited Starkos - Jade]
+author=MrSJDDevelopments
+description=Infinite Starkos - Jade
+patch=1,EE,EE5C7A4A,extended,50B5D4C1
+patch=1,EE,20D30170,extended,00000063
+
+[Cheats\Infinite\Unlimited Starkos - Pey'j's]
+author=MrSJDDevelopments
+description=Infinite Starkos - Pey'j's
+patch=1,EE,EE5D788A,extended,50B5D4C1
+patch=1,EE,20D2FB30,extended,00000063
+
+[Cheats\Infinite\Unlimited Super Attack Strength]
+author=MrSJDDevelopments
+description=Infinite Super Attack Strength
+patch=1,EE,EE5C7A46,extended,50B5D4C1
+patch=1,EE,20D30174,extended,00000063
