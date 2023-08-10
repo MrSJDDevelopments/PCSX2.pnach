@@ -1,0 +1,141 @@
+#############################################################################
+#################################### Black ##################################
+################################## 19 Cheats ################################
+################################### PAL - M #################################
+#############################################################################
+
+[Cheats\Difficulty]
+author=MrSJDDevelopments
+description=Black Difficulty
+patch=1,EE,20108CEC,extended,24040003
+
+[Cheats\Rapid Fire]
+author=MrSJDDevelopments
+description=Tap L3 For Rapid Fire
+patch=1,EE,203F4C70,extended,001573B8
+patch=1,EE,D058545C,extended,000000FD
+patch=1,EE,201575D0,extended,00000000
+patch=1,EE,D058545C,extended,001000FD
+patch=1,EE,201575D0,extended,00800008
+
+[Cheats\Skip FMVs]
+author=MrSJDDevelopments
+description=Skip FMVs
+patch=1,EE,20104B90,extended,00000000
+
+
+
+
+##############################################################################
+############################### Game Speed ###################################
+##############################################################################
+
+[Cheats\Game Speed\Hyper Mode]
+author=MrSJDDevelopments
+description=Hyper Mode (Press Select+Left)
+patch=1,EE,D058545C,extended,0000007E
+patch=1,EE,205A8A9C,extended,3D888889
+
+[Cheats\Game Speed\Normal Game Speed]
+author=MrSJDDevelopments
+description=Normal Game Speed (Press Select+Down)
+patch=1,EE,D058545C,extended,000000BE
+patch=1,EE,205A8A9C,extended,3D088889
+
+[Cheats\Game Speed\Quicker Game]
+author=MrSJDDevelopments
+description=Quicker Game (Press Select+Right)
+patch=1,EE,D058545C,extended,000000DE
+patch=1,EE,205A8A9C,extended,3D488889
+
+[Cheats\Game Speed\Slow Motion]
+author=MrSJDDevelopments
+description=Slow Motion (Press Select+Up)
+patch=1,EE,D058545C,extended,000000EE
+patch=1,EE,205A8A9C,extended,3C488889
+
+
+
+
+##############################################################################
+############################# Weapons & Ammo #################################
+##############################################################################
+
+[Cheats\Weapons & Ammo\Unlimited Ammo]
+author=MrSJDDevelopments
+description=Infinite Ammo
+patch=1,EE,201FD1E8,extended,A0455CA0
+
+[Cheats\Weapons & Ammo\Unlimited Grenades]
+author=MrSJDDevelopments
+description=Infinite Grenades
+patch=1,EE,201551CC,extended,24020009
+patch=1,EE,201551E0,extended,00000000
+
+
+
+
+##############################################################################
+############################ Health & Armour #################################
+##############################################################################
+
+[Cheats\Health\Unlimited Health]
+author=MrSJDDevelopments
+description=Infinite Health
+patch=1,EE,200FFF00,extended,3C014500
+patch=1,EE,200FFF04,extended,ACC102F8
+patch=1,EE,200FFF08,extended,3C014000
+patch=1,EE,200FFF0C,extended,0807E516
+patch=1,EE,201F9454,extended,0803FFC0
+
+[Cheats\Health\Unlimited Health Kit]
+author=MrSJDDevelopments
+description=Infinite Health Kits
+patch=1,EE,2013CC24,extended,00000000
+
+
+
+
+##############################################################################
+############################ Location Unlock #################################
+##############################################################################
+
+[Cheats\Locations\Unlock Naszran Town]
+author=MrSJDDevelopments
+description=Naszran Town
+patch=1,EE,20122928,extended,24020005
+
+[Cheats\Locations\Unlock Nazran Foundry]
+author=MrSJDDevelopments
+description=Nazran Foundry
+patch=1,EE,20122928,extended,24020003
+
+[Cheats\Locations\Unlock Spetriniv Gulag]
+author=MrSJDDevelopments
+description=Spetriniv Gulag
+patch=1,EE,20122928,extended,24020008
+
+[Cheats\Locations\Unlock Tivliz Asylum]
+author=MrSJDDevelopments
+description=Tivliz Asylum
+patch=1,EE,20122928,extended,24020004
+
+[Cheats\Locations\Unlock Treneska Border Crossing]
+author=MrSJDDevelopments
+description=Treneska Border Crossing
+patch=1,EE,20122928,extended,24020001
+
+[Cheats\Locations\Unlock Veblensk City Street]
+author=MrSJDDevelopments
+description=Veblensk City Street
+patch=1,EE,20122928,extended,24020000
+
+[Cheats\Locations\Unlock Vratska Dockyard]
+author=MrSJDDevelopments
+description=Vratska Dockyard
+patch=1,EE,20122928,extended,24020006
+
+[Cheats\Locations\Unlock Graznei Bridge]
+author=MrSJDDevelopments
+description=Graznei Bridge
+patch=1,EE,20122928,extended,24020007
