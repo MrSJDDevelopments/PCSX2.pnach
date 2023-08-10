@@ -1,0 +1,98 @@
+##############################################################################
+############################## Batman - Vengeance ############################
+################################## 14 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\All Cheats]
+author=MrSJDDevelopments
+description=All Cheats
+patch=1,EE,10847146,extended,0000FFFF
+
+[Cheats\All Cinimatics]
+author=MrSJDDevelopments
+description=Unlock All Cinematics
+patch=1,EE,10847144,extended,0000FFFF
+
+[Cheats\All Levels]
+author=MrSJDDevelopments
+description=Unlock All Levels
+patch=1,EE,008470C0,extended,00000017
+
+[Cheats\All Items]
+author=MrSJDDevelopments
+description=Have All Items
+patch=1,EE,2084713C,extended,FFFFFFFF
+patch=1,EE,EEEF0A8E,extended,51B6D565
+
+[Cheats\Jump]
+author=MrSJDDevelopments
+description=Mega Jump
+patch=1,EE,20513110,extended,41800000
+patch=1,EE,EEDA4A6A,extended,1135D466
+
+[Cheats\Glide]
+author=MrSJDDevelopments
+description=Raising Glide
+patch=1,EE,20513130,extended,36000000
+patch=1,EE,EEDA4A8A,extended,60B5D466
+
+[Cheats\Scores\Level Score]
+author=MrSJDDevelopments
+description=Perfect Level Scores
+patch=1,EE,EEEF0A22,extended,50A3C278
+patch=1,EE,EEEF0A1E,extended,50A3C278
+patch=1,EE,EEEF0A2A,extended,50A3C278
+patch=1,EE,20847148,extended,0A0A0A0A
+patch=1,EE,2084714C,extended,0A0A0A0A
+patch=1,EE,20847150,extended,0A0A0A0A
+
+
+
+
+##############################################################################
+################################### Health ###################################
+##############################################################################
+
+[Cheats\Health\Unlimited Health]
+author=MrSJDDevelopments
+description=Infinite Health
+patch=1,EE,0089E35A,extended,000000C8
+
+
+
+
+##############################################################################
+################################## Weapons ###################################
+##############################################################################
+
+[Cheats\Weapons\Unlimited Batarangs]
+author=MrSJDDevelopments
+description=Infinite Batarangs
+patch=1,EE,1089E3A6,extended,0000000F
+
+[Cheats\Weapons\Unlimited Batcuffs]
+author=MrSJDDevelopments
+description=Infinite Batcuffs
+patch=1,EE,1089E3B2,extended,0000000F
+patch=1,EE,1089E3A8,extended,0000000F
+
+[Cheats\Weapons\Unlimited Flash Bombs]
+author=MrSJDDevelopments
+description=Infinite Flash Bombs
+patch=1,EE,1089E3B0,extended,0000000F
+
+[Cheats\Weapons\Unlimited Nets]
+author=MrSJDDevelopments
+description=Infinite Nets
+patch=1,EE,1089E3AC,extended,0000000F
+
+[Cheats\Weapons\Unlimited Charges]
+author=MrSJDDevelopments
+description=Infinite R Charges
+patch=1,EE,1089E3AE,extended,0000000F
+
+[Cheats\Weapons\Unlimited Stunners]
+author=MrSJDDevelopments
+description=Infinite Stunners
+patch=1,EE,1089E3AA,extended,0000000F
