@@ -1,0 +1,268 @@
+##############################################################################
+######################## Baldur's Gate - Dark Alliance #######################
+################################## 33 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\999 Attack Skill]
+author=MrSJDDevelopments
+description=Base Attack Skill 9999
+patch=1,EE,008937F3,extended,000000F9
+patch=1,EE,20298A48,extended,00002710
+
+[Cheats\Unlimited Skill Points]
+author=MrSJDDevelopments
+description=Infinite Skill Points
+patch=1,EE,0089370B,extended,000000B6
+patch=1,EE,20298A60,extended,00000063
+
+[Cheats\Quick Level up]
+author=MrSJDDevelopments
+description=Quick Level
+patch=1,EE,00893483,extended,0000006A
+patch=1,EE,202989D8,extended,0098967F
+
+[Cheats\1 Encumberance]
+author=MrSJDDevelopments
+description=Always 1 Encumberance
+patch=1,EE,0089374F,extended,000000E9
+patch=1,EE,20298AA4,extended,3F800000
+
+[Cheats\30 Charisma]
+author=MrSJDDevelopments
+description=Charisma 30
+patch=1,EE,008937CB,extended,0000008F
+patch=1,EE,20298A20,extended,0000001E
+
+[Cheats\30 Constitution]
+author=MrSJDDevelopments
+description=Constitution 30
+patch=1,EE,008937C7,extended,0000008F
+patch=1,EE,20298A1C,extended,0000001E
+
+[Cheats\30 Dexterity]
+author=MrSJDDevelopments
+description=Dexterity 30
+patch=1,EE,008937C3,extended,0000008F
+patch=1,EE,20298A18,extended,0000001E
+
+[Cheats\30 Intelligence]
+author=MrSJDDevelopments
+description=Intelligence 30
+patch=1,EE,008937BB,extended,0000008F
+patch=1,EE,20298A10,extended,0000001E
+
+[Cheats\30 Strength]
+author=MrSJDDevelopments
+description=Strength 30
+patch=1,EE,008937B7,extended,0000008F
+patch=1,EE,20298A0C,extended,0000001E
+
+[Cheats\30 Wisdom]
+author=MrSJDDevelopments
+description=Wisdom 30
+patch=1,EE,008937BF,extended,0000008F
+patch=1,EE,20298A14,extended,0000001E
+
+[Cheats\Gauntlet-Extreme Mode]
+author=MrSJDDevelopments
+description=Gauntlet/Extreme Mode Open
+patch=1,EE,00B7AF13,extended,000000EA
+
+
+
+
+##############################################################################
+################################### Energy ###################################
+##############################################################################
+
+[Cheats\Energy\Unlimited Energy]
+author=MrSJDDevelopments
+description=Infinite Energy
+patch=1,EE,008937E7,extended,000000E9
+patch=1,EE,008937EB,extended,000000E9
+patch=1,EE,20298A3C,extended,461C3C00
+patch=1,EE,20298A40,extended,461C3C00
+
+[Cheats\Energy\500 Energy Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 500 Energy
+patch=1,EE,D0298A3C,extended,43FA0000
+patch=1,EE,20298A3C,extended,43FA0000
+patch=1,EE,D0298A40,extended,43FA0000
+patch=1,EE,20298A40,extended,43FA0000g
+
+[Cheats\Energy\1000 Energy Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 1000 Energy
+patch=1,EE,D0298A3C,extended,447A0000
+patch=1,EE,20298A3C,extended,447A0000
+patch=1,EE,D0298A40,extended,447A0000
+patch=1,EE,20298A40,extended,447A0000
+
+[Cheats\Energy\2500 Energy Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 2500 Energy
+patch=1,EE,D0298A3C,extended,455C4000
+patch=1,EE,20298A3C,extended,451C4000
+patch=1,EE,D0298A40,extended,455C4000
+patch=1,EE,20298A40,extended,451C4000
+
+[Cheats\Energy\5000 Energy Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 5000 Energy
+patch=1,EE,D0298A3C,extended,45DC4000
+patch=1,EE,20298A3C,extended,459C4000
+patch=1,EE,D0298A40,extended,45DC4000
+patch=1,EE,20298A40,extended,459C4000
+
+
+
+
+##############################################################################
+################################### Money ####################################
+##############################################################################
+
+[Cheats\Money\Loads o Gold]
+author=MrSJDDevelopments
+description=Loads Of Gold by InterAct
+patch=1,EE,00893707,extended,000000AA
+patch=1,EE,20298A5C,extended,000F423F
+
+[Cheats\Money\100 Gold Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 100 Gold
+patch=1,EE,D0298A5C,extended,00500064
+patch=1,EE,20298A5C,extended,00000064
+
+[Cheats\Money\500 Gold Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 500 Gold
+patch=1,EE,D0298A5C,extended,005001F4
+patch=1,EE,20298A5C,extended,000001F4
+
+[Cheats\Money\1000 Gold Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 1000 Gold
+patch=1,EE,D0298A5C,extended,005003E8
+patch=1,EE,20298A5C,extended,000003E8
+
+[Cheats\Money\2500 Gold Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 2500 Gold
+patch=1,EE,D0298A5C,extended,005009C4
+patch=1,EE,20298A5C,extended,000009C4
+
+[Cheats\Money\5000 Gold Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 5000 Gold
+patch=1,EE,D0298A5C,extended,00501388
+patch=1,EE,20298A5C,extended,00001388
+
+[Cheats\Money\10000 Gold Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 10000 Gold
+patch=1,EE,D0298A5C,extended,00502710
+patch=1,EE,20298A5C,extended,00002710
+
+
+
+
+##############################################################################
+################################### Health ###################################
+##############################################################################
+
+[Cheats\Health\Unlimited Health]
+author=MrSJDDevelopments
+description=Infinite Health
+patch=1,EE,008937CF,extended,000000E9
+patch=1,EE,008937D3,extended,000000E9
+patch=1,EE,20298A24,extended,461C3C00
+patch=1,EE,20298A28,extended,461C3C00
+
+[Cheats\Health\500 Health Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 500 Health
+patch=1,EE,D0298A24,extended,43FA0000
+patch=1,EE,20298A24,extended,43FA0000
+patch=1,EE,D0298A28,extended,43FA0000
+patch=1,EE,20298A28,extended,43FA0000
+
+[Cheats\Health\1000 Health Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 1000 Health
+patch=1,EE,D0298A24,extended,447A0000
+patch=1,EE,20298A24,extended,447A0000
+patch=1,EE,D0298A28,extended,447A0000
+patch=1,EE,20298A28,extended,447A0000
+
+[Cheats\Health\2500 Health Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 2500 Health
+patch=1,EE,D0298A24,extended,455C4000
+patch=1,EE,20298A24,extended,451C4000
+patch=1,EE,D0298A28,extended,455C4000
+patch=1,EE,20298A28,extended,451C4000
+
+[Cheats\Health\5000 Health Limit]
+author=MrSJDDevelopments
+description=Never Have More Than 5000 Health
+patch=1,EE,D0298A24,extended,45DC4000
+patch=1,EE,20298A24,extended,459C4000
+patch=1,EE,D0298A28,extended,45DC4000
+patch=1,EE,20298A28,extended,459C4000
+
+
+
+
+##############################################################################
+################################ Inventory ###################################
+##############################################################################
+
+[Cheats\Inventory\Onyx Weapons slot 1]
+author=MrSJDDevelopments
+description=Onyx Weapon In Slot 1
+patch=1,EE,00893763,extended,0000003D
+patch=1,EE,00B62E7F,extended,000000FA
+patch=1,EE,20298AB8,extended,002A83CC
+patch=1,EE,202A83D4,extended,0000270F
+
+[Cheats\Inventory\Plate Armour]
+author=MrSJDDevelopments
+description=Plate Armour - Weight 1 AC 9999 In Slot 1
+patch=1,EE,20298EC0,extended,002A8A28
+patch=1,EE,202A8A2C,extended,3F800000
+patch=1,EE,002A8A3C,extended,00000010
+patch=1,EE,00893B6B,extended,000000F1
+patch=1,EE,00B637D7,extended,000000E9
+patch=1,EE,20B637E4,extended,64DA40F9
+
+[Cheats\Inventory\Plate Boots]
+author=MrSJDDevelopments
+description=Plate Boots - Weight 1 AC 9999 In Slot 4
+patch=1,EE,20298EF0,extended,002A8A58
+patch=1,EE,202A8A5C,extended,3F800000
+patch=1,EE,202A8A6C,extended,0000270F
+patch=1,EE,00893B9B,extended,000000A1
+patch=1,EE,00B63707,extended,000000E9
+patch=1,EE,00B63717,extended,000000FA
+
+[Cheats\Inventory\Plate Gloves]
+author=MrSJDDevelopments
+description=Plate Gloves - Weight 1 AC 9999 In Slot 3
+patch=1,EE,20298EE0,extended,002A8A88
+patch=1,EE,202A8A8C,extended,3F800000
+patch=1,EE,202A8A9C,extended,0000270F
+patch=1,EE,00893B8B,extended,00000051
+patch=1,EE,00B63737,extended,000000E9
+patch=1,EE,00B63747,extended,000000FA
+
+[Cheats\Inventory\Plate Helm]
+author=MrSJDDevelopments
+description=Plate Helm - Weight 1 AC 9999 In Slot 2
+patch=1,EE,20298ED0,extended,002A8AB8
+patch=1,EE,202A8ABC,extended,3F800000
+patch=1,EE,202A8ACC,extended,0000270F
+patch=1,EE,00893B7B,extended,00000001
+patch=1,EE,00B63767,extended,000000E9
+patch=1,EE,00B63777,extended,000000FA
