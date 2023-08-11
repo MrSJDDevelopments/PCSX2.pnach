@@ -1,0 +1,250 @@
+##############################################################################
+######################## Baldur's Gate - Dark Alliance #######################
+################################## 33 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\0% D Gauge]
+author=MrSJDDevelopments
+description=0% D Gauge (Press Select+Up)
+patch=1,EE,EEF1E27E,extended,50B5D466
+patch=1,EE,D02C8EE0,extended,0000FFEE
+patch=1,EE,2076992C,extended,00000000
+
+[Cheats\1 Hit Kill]
+author=MrSJDDevelopments
+description=1 Hit Kill Baddies
+patch=1,EE,21013698,extended,24070000
+
+
+[Cheats\No AP]
+author=MrSJDDevelopments
+description=Enemies Have No AP
+patch=1,EE,210136A8,extended,24070000
+patch=1,EE,210136EC,extended,24060000
+
+[Cheats\Low Time]
+author=MrSJDDevelopments
+description=Low Time
+patch=1,EE,20769DB4,extended,00001000
+patch=1,EE,20771324,extended,00001000
+
+[Cheats\No Randoms]
+author=MrSJDDevelopments
+description=No Random Battles (Press L3+Up To Activate L3+Down To Stop)
+patch=1,EE,D02C8EE0,extended,0000FFED
+patch=1,EE,20151614,extended,24020100
+patch=1,EE,D02C8EE0,extended,0000FFBD
+patch=1,EE,20151614,extended,864201FC
+patch=1,EE,D007E7BA,extended,58B0D55B
+patch=1,EE,EE1E5F66,extended,70ABCB66
+patch=1,EE,D007E7BA,extended,58B0D5AB
+patch=1,EE,EE1E5F66,extended,D0EBCB6A
+
+[Cheats\SIMC Slot 2]
+author=MrSJDDevelopments
+description=SIMC Slot 2 (Optional)
+patch=1,EE,EE1877B2,extended,60B4D476
+patch=1,EE,EE1877AE,extended,D088D6B6
+patch=1,EE,EE1877B6,extended,7008D467
+patch=1,EE,EE1877C2,extended,F088D6B6
+patch=1,EE,EE1877BE,extended,7008D476
+patch=1,EE,EE1877CA,extended,40A8D470
+patch=1,EE,EE1877D2,extended,F095D6B6
+patch=1,EE,200FFED8,extended,3C010010
+patch=1,EE,200FFEDC,extended,8C25FED0
+patch=1,EE,200FFEE4,extended,24A50001
+patch=1,EE,200FFEE8,extended,AC25FED0
+patch=1,EE,200FFEEC,extended,28A50010
+patch=1,EE,200FFEF0,extended,14050012
+patch=1,EE,200FFEF8,extended,AC20FED0
+
+[Cheats\Item Modifier
+author=MrSJDDevelopments
+description=Super Item Modifier Code
+patch=1,EE,200FFF00,extended,3C01002D
+patch=1,EE,200FFF04,extended,84218EE0
+patch=1,EE,200FFF08,extended,2405FFFB
+patch=1,EE,200FFF0C,extended,14A1000B
+patch=1,EE,200FFF14,extended,92450000
+patch=1,EE,200FFF18,extended,24A50001
+patch=1,EE,200FFF20,extended,A2450000
+patch=1,EE,200FFF2C,extended,24010050
+patch=1,EE,200FFF30,extended,14250002
+patch=1,EE,200FFF38,extended,A2400000
+patch=1,EE,200FFF40,extended,08414835
+patch=1,EE,200FFF44,extended,92450000
+patch=1,EE,210520D0,extended,0803FFB6
+
+
+
+##############################################################################
+################################### Speed ####################################
+##############################################################################
+
+[Cheats\Speed\Fast Characters]
+author=MrSJDDevelopments
+description=Fast Characters
+patch=1,EE,EE1FAF46,extended,60AB1566
+patch=1,EE,2014C674,extended,3C023F00
+
+[Cheats\Speed\Ultra Fast]
+author=MrSJDDevelopments
+description=Ultra Fast Characters
+patch=1,EE,EE1FAF46,extended,60AB16E6
+patch=1,EE,2014C674,extended,3C023E80
+
+[Cheats\Zoom\Zoom]
+author=MrSJDDevelopments
+description=Zoom In
+patch=1,EE,EE1B432A,extended,60B41526
+patch=1,EE,20103A50,extended,3C013F40
+
+[Cheats\Zoom\Bigger Zoom]
+author=MrSJDDevelopments
+description=Bigger Zoom In
+patch=1,EE,EE1B432A,extended,60B41566
+patch=1,EE,20103A50,extended,3C013F00
+
+
+##############################################################################
+################################ Experiance  #################################
+##############################################################################
+
+[Cheats\Experiance\500 Experience]
+author=MrSJDDevelopments
+description=500 Experience Per Battle
+patch=1,EE,21025F14,extended,244201F4
+patch=1,EE,21025F08,extended,00000000
+
+[Cheats\Experiance\100 Experience]
+author=MrSJDDevelopments
+description=100 Experience Per Battle
+patch=1,EE,21025F14,extended,24420064
+patch=1,EE,21025F08,extended,00000000
+
+[Cheats\Experiance\1000 Experience]
+author=MrSJDDevelopments
+description=1000 Experience Per Battle
+patch=1,EE,21025F14,extended,244203E8
+patch=1,EE,21025F08,extended,00000000
+
+
+
+
+##############################################################################
+################################ Characters ##################################
+##############################################################################
+
+[Cheats\Characters\2D Characters]
+author=MrSJDDevelopments
+description=2D Characters
+patch=1,EE,EE13C922,extended,60B41516
+patch=1,EE,EE13C9CE,extended,F0D4D406
+patch=1,EE,2018AC48,extended,3C013F30
+patch=1,EE,2018ACFC,extended,AE610020
+
+[Cheats\Characters\Small Sprites]
+author=MrSJDDevelopments
+description=Small Sprites
+patch=1,EE,EE13C922,extended,60B415C6
+patch=1,EE,EE13C9C6,extended,F0D4D40A
+patch=1,EE,EE13C9BE,extended,F0D4D40E
+patch=1,EE,EE13C9CE,extended,F0D4D406
+patch=1,EE,2018AC48,extended,3C013F60
+patch=1,EE,2018ACF4,extended,AE61001C
+patch=1,EE,2018ACEC,extended,AE610018
+patch=1,EE,2018ACFC,extended,AE610020
+
+[Cheats\Characters\Bigger Sprites]
+author=MrSJDDevelopments
+description=Bigger Sprites
+patch=1,EE,EE13C922,extended,60B415F6
+patch=1,EE,EE13C9C6,extended,F0D4D40A
+patch=1,EE,EE13C9BE,extended,F0D4D40E
+patch=1,EE,EE13C9CE,extended,F0D4D406
+patch=1,EE,2018AC48,extended,3C013F90
+patch=1,EE,2018ACF4,extended,AE61001C
+patch=1,EE,2018ACEC,extended,AE610018
+patch=1,EE,2018ACFC,extended,AE610020
+
+
+
+
+##############################################################################
+################################## Ratios ####################################
+##############################################################################
+
+[Cheats\Ratio\1/2 Ratio]
+author=MrSJDDevelopments
+description=Start With 1/2 Ratio
+patch=1,EE,201BB3BC,extended,24021000
+
+[Cheats\Ratio\1/4 Ratio]
+author=MrSJDDevelopments
+description=Start With 1/4 Ratio
+patch=1,EE,201BB3BC,extended,24020500
+
+[Cheats\Ratio\1/8 Ratio]
+author=MrSJDDevelopments
+description=Start With 1/8 Ratio
+patch=1,EE,201BB3BC,extended,24020250
+
+[Cheats\Ratio\Decrease Ratio]
+author=MrSJDDevelopments
+description=Press Select To Decrease Ratio
+patch=1,EE,D02C8EE0,extended,0000FFFE
+patch=1,EE,201C469C,extended,0803FFE0
+patch=1,EE,D02C8EE0,extended,0000FFFF
+patch=1,EE,201C469C,extended,3C05002C
+patch=1,EE,200FFF80,extended,24C6FF00
+patch=1,EE,200FFF84,extended,AC26A6E8
+patch=1,EE,200FFF88,extended,3C05002C
+patch=1,EE,200FFF8C,extended,080711A8
+
+
+
+
+##############################################################################
+################################ Unlimited ###################################
+##############################################################################
+
+[Cheats\Unlimited\Unlimited AP]
+author=MrSJDDevelopments
+description=Infinite AP
+patch=1,EE,EE13584E,extended,C0AED4D8
+patch=1,EE,EE13585A,extended,F0AED40A
+patch=1,EE,20181B7C,extended,9607006A
+patch=1,EE,20181B80,extended,A607001C
+
+[Cheats\Unlimited\Unlimited Health]
+author=MrSJDDevelopments
+description=Infinite Health
+patch=1,EE,EE13586E,extended,D0AAD4C2
+patch=1,EE,EE13587A,extended,F0AAD40E
+patch=1,EE,20181B1C,extended,8E030064
+patch=1,EE,20181B20,extended,AE030018
+
+[Cheats\Unlimited\Unlimited Item]
+author=MrSJDDevelopments
+description=Infinite Item Upon Use
+patch=1,EE,EE1487DA,extended,50B5D466
+patch=1,EE,201BEE00,extended,00000000
+
+[Cheats\Unlimited\Unlimited Party XP]
+author=MrSJDDevelopments
+description=Infinite Party XP
+patch=1,EE,EEF1E28A,extended,50E5D599
+patch=1,EE,20769930,extended,0050FFAB
+
+[Cheats\Unlimited\Unlimited Save]
+author=MrSJDDevelopments
+description=Infinite Save Upon Use
+patch=1,EE,EE148932,extended,50B5D466
+patch=1,EE,201BEC58,extended,00000000
+
+[Cheats\Unlimited\Unlimited Zenny's]
+author=MrSJDDevelopments
+description=Infinite Zennys
+patch=1,EE,EEF1E282,extended,50E5D599
+patch=1,EE,20769928,extended,0050FFAB
