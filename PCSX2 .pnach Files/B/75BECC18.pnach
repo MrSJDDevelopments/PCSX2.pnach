@@ -1,0 +1,790 @@
+##############################################################################
+############################# Burnout 3 - Takedown ###########################
+################################## 62 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+[Cheats\Headlines]
+author=MrSJDDevelopments
+description=All Crash Headlines
+patch=1,EE,0051C4C7,extended,00000001
+patch=1,EE,0051C3C7,extended,00000001
+
+[Cheats\Medals]
+author=MrSJDDevelopments
+description=All Medals Gold
+patch=1,EE,0051C404,extended,00000003
+patch=1,EE,0051C304,extended,00000003
+
+[Cheats\Postcards]
+author=MrSJDDevelopments
+description=All Postcards
+patch=1,EE,0051C652,extended,00000001
+patch=1,EE,0051C552,extended,00000001
+
+[Cheats\Takedowns]
+author=MrSJDDevelopments
+description=All Signature Takedowns
+patch=1,EE,0051C4B3,extended,00000001
+patch=1,EE,0051C3B3,extended,00000001
+
+[Cheats\Boost Never Below 1]
+author=MrSJDDevelopments
+description=Boost Never Goes Below 1
+patch=1,EE,D064EAF4,extended,43680000
+patch=1,EE,2064EAF4,extended,43480000
+patch=1,EE,D064E9F4,extended,43680000
+patch=1,EE,2064E9F4,extended,43480000
+
+[Cheats\Extra Boost]
+author=MrSJDDevelopments
+description=Extra Boost
+patch=1,EE,2057D444,extended,44000000
+patch=1,EE,2057D504,extended,41000000
+patch=1,EE,2057D344,extended,44000000
+patch=1,EE,2057D404,extended,41000000
+
+[Cheats\Max Boost]
+author=MrSJDDevelopments
+description=Max Boost
+patch=1,EE,2064EB04,extended,40000000
+patch=1,EE,2064EAF4,extended,44340000
+patch=1,EE,2064EAF0,extended,44340000
+patch=1,EE,2064EAEC,extended,00000003
+patch=1,EE,2064EA04,extended,40000000
+patch=1,EE,2064E9F4,extended,44340000
+patch=1,EE,2064E9F0,extended,44340000
+patch=1,EE,2064E9EC,extended,00000003
+
+[Cheats\Bouncing Crash]
+author=MrSJDDevelopments
+description=Bouncing Crashes
+patch=1,EE,204E0C0C,extended,3FE00000
+patch=1,EE,204E0B0C,extended,3FE00000
+
+[Cheats\Crazy Explosion]
+author=MrSJDDevelopments
+description=Crazy Explosion
+patch=1,EE,204E0C24,extended,C1000000
+patch=1,EE,204E0B24,extended,C1000000
+
+[Cheats\Crazy Gravity]
+author=MrSJDDevelopments
+description=Crazy Gravity
+patch=1,EE,204E0C2C,extended,42000000
+patch=1,EE,204E0B2C,extended,42000000
+
+[Cheats\Disable AI]
+author=MrSJDDevelopments
+description=Disable AI
+patch=1,EE,206456F4,extended,00000000
+patch=1,EE,206455F4,extended,00000000
+
+[Cheats\World Time]
+author=MrSJDDevelopments
+description=Display World Time
+patch=1,EE,20134B18,extended,00000000
+patch=1,EE,20134C54,extended,00000000
+patch=1,EE,20134B18,extended,00000000
+patch=1,EE,20134C54,extended,00000000
+
+[Cheats\Drive Through]
+author=MrSJDDevelopments
+description=Drive Through Cars
+patch=1,EE,201B7368,extended,00000000
+patch=1,EE,201B7378,extended,00000000
+
+[Cheats\No Crash]
+author=MrSJDDevelopments
+description=No Crash Required For Crashbreaker
+patch=1,EE,2015BB80,extended,24020000
+patch=1,EE,2015BB80,extended,24020000
+
+[Cheats\No Frontal Collisions]
+author=MrSJDDevelopments
+description=Invincible To Frontal Collisions
+patch=1,EE,204E1BB4,extended,7F960000
+patch=1,EE,204E1AB4,extended,7F960000
+
+[Cheats\Game Speed\Quicker]
+author=MrSJDDevelopments
+description=Quicker Game (Press R3+Right)
+patch=1,EE,D04F565C,extended,000000DB
+patch=1,EE,20522BFC,extended,3D23D70A
+
+[Cheats\Game Speed\Normal]
+author=MrSJDDevelopments
+description=Normal Speed (Press R3+Left)
+patch=1,EE,D04F565C,extended,0000007B
+patch=1,EE,20522BFC,extended,3CA3D70A
+
+[Cheats\Game Speed\Slow]
+author=MrSJDDevelopments
+description=Slow Motion (Press R3+Down)
+patch=1,EE,D04F565C,extended,000000BB
+patch=1,EE,20522BFC,extended,3B800000
+
+
+##############################################################################
+################################## Modifiers #################################
+##############################################################################
+
+[Cheats\Modifiers\Burnout]
+author=MrSJDDevelopments
+description=Max Burnout Points
+patch=1,EE,2051C0C0,extended,35FAB000
+patch=1,EE,2051BFC0,extended,35FAB000
+
+[Cheats\Modifiers\Crash]
+author=MrSJDDevelopments
+description=Max Crash Damage
+patch=1,EE,2051C0C4,extended,35FAB000
+patch=1,EE,2051BFC4,extended,35FAB000
+
+[Cheats\Modifiers\Rubbing]
+author=MrSJDDevelopments
+description=Easy Rubbing
+patch=1,EE,20488660,extended,3C000000
+patch=1,EE,20488664,extended,3C000000
+patch=1,EE,20488668,extended,3C000000
+patch=1,EE,2048866C,extended,3C000000
+
+[Cheats\Modifiers\Tailgate]
+author=MrSJDDevelopments
+description=Easy Tailgate
+patch=1,EE,20488650,extended,3C000000
+patch=1,EE,20488654,extended,3C000000
+patch=1,EE,20488658,extended,3C000000
+patch=1,EE,2048865C,extended,3C000000
+
+[Cheats\Modifiers\Slams]
+author=MrSJDDevelopments
+description=Slams Always Gives 9999 Pts
+patch=1,EE,20488530,extended,0000270F
+patch=1,EE,20488534,extended,0000270F
+patch=1,EE,20488538,extended,0000270F
+patch=1,EE,2048853C,extended,0000270F
+
+[Cheats\Double Takedown]
+author=MrSJDDevelopments
+description=Double Takedown Always Gives 9999 Pts
+patch=1,EE,204885E0,extended,0000270F
+patch=1,EE,204885E4,extended,0000270F
+patch=1,EE,204885E8,extended,0000270F
+patch=1,EE,204885EC,extended,0000270F
+
+[Cheats\Modifiers\Near Miss\Easy Near]
+author=MrSJDDevelopments
+description=Easy Near Miss
+patch=1,EE,20488680,extended,00000000
+patch=1,EE,20488684,extended,3F800000
+patch=1,EE,20488688,extended,3F800000
+patch=1,EE,2048868C,extended,3F800000
+
+[Cheats\Modifiers\Near Miss\5 Near Miss 9999]
+author=MrSJDDevelopments
+description=5 Pts Near Miss Gives 9999 Pts
+patch=1,EE,204885B0,extended,0000270F
+
+[Cheats\Modifiers\Near Miss\10 Near Miss 9999]
+author=MrSJDDevelopments
+description=10 Pts Near Miss Gives 9999 Pts
+patch=1,EE,204885B4,extended,0000270F
+
+[Cheats\Modifiers\Near Miss\15 Near Miss 9999]
+author=MrSJDDevelopments
+description=15 Pts Near Miss Gives 9999 Pts
+patch=1,EE,204885B8,extended,0000270F
+
+[Cheats\Modifiers\Near Miss\25 Near Miss 9999]
+author=MrSJDDevelopments
+description=25 Pts Near Miss Gives 9999 Pts
+patch=1,EE,204885BC,extended,0000270F
+
+[Cheats\Modifiers\AIR\Easy AIR]
+author=MrSJDDevelopments
+description=Easy Air
+patch=1,EE,20488620,extended,3E000000
+patch=1,EE,20488624,extended,3E000000
+patch=1,EE,20488628,extended,3E000000
+patch=1,EE,2048862C,extended,3E000000
+
+[Cheats\Modifiers\AIR\100 Air 9999]
+author=MrSJDDevelopments
+description=100 Pts Air Gives 9999 Pts
+patch=1,EE,20488550,extended,0000270F
+
+[Cheats\Modifiers\AIR\250 Air 9999]
+author=MrSJDDevelopments
+description=250 Pts Air Gives 9999 Pts
+patch=1,EE,20488554,extended,0000270F
+
+[Cheats\Modifiers\AIR\500 Air 9999]
+author=MrSJDDevelopments
+description=500 Pts Air Gives 9999 Pts
+patch=1,EE,20488558,extended,0000270F
+
+[Cheats\Modifiers\AIR\1000 Air 9999]
+author=MrSJDDevelopments
+description=1000 Pts Air Gives 9999 Pts
+patch=1,EE,2048855C,extended,0000270F
+
+[Cheats\Modifiers\Drift\Easy Drift]
+author=MrSJDDevelopments
+description=Easy Drift
+patch=1,EE,20488640,extended,3E000000
+patch=1,EE,20488644,extended,3E000000
+patch=1,EE,20488648,extended,3E000000
+patch=1,EE,2048864C,extended,3E000000
+
+[Cheats\Modifiers\Drift\100 Drift 9999]
+author=MrSJDDevelopments
+description=100 Pts Drift Gives 9999 Pts
+patch=1,EE,20488570,extended,0000270F
+
+[Cheats\Modifiers\Drift\250 Drift 9999]
+author=MrSJDDevelopments
+description=250 Pts Drift Gives 9999 Pts
+patch=1,EE,20488574,extended,0000270F
+
+[Cheats\Modifiers\Drift\500 Drift 9999]
+author=MrSJDDevelopments
+description=500 Pts Drift Gives 9999 Pts
+patch=1,EE,20488578,extended,0000270F
+
+[Cheats\Modifiers\Drift\1000 Drift 9999]
+author=MrSJDDevelopments
+description=1000 Pts Drift Gives 9999 Pts
+patch=1,EE,2048857C,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\100 Road Rage 9999]
+author=MrSJDDevelopments
+description=100 Pts Road Rage Give 9999 Pts
+patch=1,EE,20488600,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\250 Road Rage 9999]
+author=MrSJDDevelopments
+description=250 Pts Road Rage Give 9999 Pts
+patch=1,EE,20488604,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\500 Road Rage 9999]
+author=MrSJDDevelopments
+description=500 Pts Road Rage Give 9999 Pts
+patch=1,EE,20488608,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\1000 Road Rage 9999]
+author=MrSJDDevelopments
+description=1000 Pts Road Rage Give 9999 Pts
+patch=1,EE,2048860C,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\1250 Road Rage 9999]
+author=MrSJDDevelopments
+description=1250 Pts Road Rage Give 9999 Pts
+patch=1,EE,20488610,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\1500 Road Rage 9999]
+author=MrSJDDevelopments
+description=1500 Pts Road Rage Give 9999 Pts
+patch=1,EE,20488614,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\1750 Road Rage 9999]
+author=MrSJDDevelopments
+description=1750 Pts Road Rage Give 9999 Pts
+patch=1,EE,20488618,extended,0000270F
+
+[Cheats\Modifiers\Road Rage\2000 Road Rage 9999]
+author=MrSJDDevelopments
+description=2000 Pts Road Rage Give 9999 Pts
+patch=1,EE,2048861C,extended,0000270F
+
+[Cheats\Modifiers\Oncoming\Easy Oncoming]
+author=MrSJDDevelopments
+description=Easy Oncoming
+patch=1,EE,20488630,extended,3E000000
+patch=1,EE,20488634,extended,3E000000
+patch=1,EE,20488638,extended,3E000000
+patch=1,EE,2048863C,extended,3E000000
+
+[Cheats\Modifiers\Oncoming\Gives 9999]
+author=MrSJDDevelopments
+description=Oncoming Always Gives 9999 Pts
+patch=1,EE,20488560,extended,0000270F
+patch=1,EE,20488564,extended,0000270F
+patch=1,EE,20488568,extended,0000270F
+patch=1,EE,2048856C,extended,0000270F
+
+[Cheats\Modifiers\Grinding\Easy Grinding]
+author=MrSJDDevelopments
+description=Easy Grindingg
+patch=1,EE,20488670,extended,3C000000
+patch=1,EE,20488674,extended,3C000000
+patch=1,EE,20488678,extended,3C000000
+patch=1,EE,2048867C,extended,3C000000
+
+[Cheats\Modifiers\Grinding\Gives 9999]
+author=MrSJDDevelopments
+description=Grinding Always Gives 9999 Pts
+patch=1,EE,204885A0,extended,0000270F
+patch=1,EE,204885A4,extended,0000270F
+patch=1,EE,204885A8,extended,0000270F
+
+
+
+
+##############################################################################
+################################### Vehicles #################################
+##############################################################################
+
+[Cheats\Vehicles\Unlock All Cars]
+author=MrSJDDevelopments
+description=All Cars Available At Selection Screen
+patch=1,EE,0051C520,extended,00000001
+patch=1,EE,0051C420,extended,00000001
+
+[Cheats\Vehicles\Vehicles\4WD Heavy Duty]
+author=MrSJDDevelopments
+description=4WD Heavy Duty
+patch=1,EE,2064F290,extended,67607000
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,67607000
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\4WD Racer]
+author=MrSJDDevelopments
+description=4wd Racer
+patch=1,EE,2064F290,extended,67125000
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,67125000
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\Assassin Compact]
+author=MrSJDDevelopments
+description=Assassin Compact
+patch=1,EE,2064F290,extended,96D5A000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,96D5A000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Assassin Coupe]
+author=MrSJDDevelopments
+description=Assassin Coupe
+patch=1,EE,2064F290,extended,E3D5A000
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F190,extended,E3D5A000
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Assassin Muscle]
+author=MrSJDDevelopments
+description=Assassin Muscle
+patch=1,EE,2064F290,extended,82D5A000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,82D5A000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Assassin Sport]
+author=MrSJDDevelopments
+description=Assassin Sport
+patch=1,EE,2064F290,extended,22D5A000
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,22D5A000
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Assassin Super]
+author=MrSJDDevelopments
+description=Assassin Super
+patch=1,EE,2064F290,extended,50D5A000
+patch=1,EE,2064F294,extended,B959BADE
+patch=1,EE,2064F190,extended,50D5A000
+patch=1,EE,2064F194,extended,B959BADE
+
+[Cheats\Vehicles\Vehicles\B-Team Van]
+author=MrSJDDevelopments
+description=B-Team Van
+patch=1,EE,2064F290,extended,67878000
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,67878000
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\City Bus]
+author=MrSJDDevelopments
+description=City Bus
+patch=1,EE,2064F290,extended,6823C000
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,6823C000
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\Classic Hot Road]
+author=MrSJDDevelopments
+description=Classic Hot Road
+patch=1,EE,2064F290,extended,A1182C00
+patch=1,EE,2064F294,extended,790798FB
+patch=1,EE,2064F190,extended,A1182C00
+patch=1,EE,2064F194,extended,790798FB
+
+[Cheats\Vehicles\Vehicles\Compact]
+author=MrSJDDevelopments
+description=Compact
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Compact DX]
+author=MrSJDDevelopments
+description=Compact DX
+patch=1,EE,2064F290,extended,9723C000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,9723C000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Compact Prototype]
+author=MrSJDDevelopments
+description=Compact Prototype
+patch=1,EE,2064F290,extended,96FCB000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,96FCB000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Compact Type-1]
+author=MrSJDDevelopments
+description=Compact Type-1
+patch=1,EE,2064F290,extended,95EB4000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,95EB4000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Compact Type-2]
+author=MrSJDDevelopments
+description=Compact Type-2
+patch=1,EE,2064F290,extended,96125000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,96125000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Compact Type-3]
+author=MrSJDDevelopments
+description=Compact Type-3
+patch=1,EE,2064F290,extended,96396000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,96396000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Coupe]
+author=MrSJDDevelopments
+description=Coupe
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Coupe DX]
+author=MrSJDDevelopments
+description=Coupe DX
+patch=1,EE,2064F290,extended,E423C000
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F190,extended,E423C000
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Coupe Prototype]
+author=MrSJDDevelopments
+description=Coupe Prototype
+patch=1,EE,2064F290,extended,E3FCB000
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F190,extended,E3FCB000
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Coupe Type-1]
+author=MrSJDDevelopments
+description=Coupe Type-1
+patch=1,EE,2064F190,extended,E2EB4000
+patch=1,EE,2064F194,extended,5C3791C1
+patch=1,EE,2064F290,extended,E2EB4000
+patch=1,EE,2064F294,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Coupe Type-2]
+author=MrSJDDevelopments
+description=Coupe Type-2
+patch=1,EE,2064F290,extended,E3125000
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F190,extended,E3125000
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Coupe Type-3]
+author=MrSJDDevelopments
+description=Coupe Type-3
+patch=1,EE,2064F290,extended,E3396000
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F190,extended,E3396000
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Delivery Truck]
+author=MrSJDDevelopments
+description=Delivery Truck
+patch=1,EE,2064F290,extended,67AE9000
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,67AE9000
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\Dominator Compact]
+author=MrSJDDevelopments
+description=Dominator Compact
+patch=1,EE,2064F290,extended,95EE2E00
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,95EE2E00
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Dominator Coupe]
+author=MrSJDDevelopments
+description=Dominator Coupe
+patch=1,EE,2064F290,extended,E2EE2E00
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F190,extended,E2EE2E00
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Dominator Muscle]
+author=MrSJDDevelopments
+description=Dominator Muscle
+patch=1,EE,2064F290,extended,81EE2E00
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,81EE2E00
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Dominator Sport]
+author=MrSJDDevelopments
+description=Dominator Sport
+patch=1,EE,2064F290,extended,21EE2E00
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,21EE2E00
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Dominator Super]
+author=MrSJDDevelopments
+description=Dominator Super
+patch=1,EE,2064F290,extended,4FEE2E00
+patch=1,EE,2064F294,extended,B959BADE
+patch=1,EE,2064F190,extended,4FEE2E00
+patch=1,EE,2064F194,extended,B959BADE
+
+[Cheats\Vehicles\Vehicles\Euro Circuit Racer]
+author=MrSJDDevelopments
+description=Euro Circuit Racer
+patch=1,EE,2064F290,extended,A1173200
+patch=1,EE,2064F294,extended,790798FB
+patch=1,EE,2064F190,extended,A1173200
+patch=1,EE,2064F194,extended,790798FB
+
+[Cheats\Vehicles\Vehicles\Fire Truck]
+author=MrSJDDevelopments
+description=Fire Truck
+patch=1,EE,2064F290,extended,67422A00
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,67422A00
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\Heavy Pick Up]
+author=MrSJDDevelopments
+description=Heavy Pick Up
+patch=1,EE,2064F290,extended,66EB4000
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,66EB4000
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\Heavyweight]
+author=MrSJDDevelopments
+description=Heavyweight
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\Longnose Cab]
+author=MrSJDDevelopments
+description=Longnose Cab
+patch=1,EE,2064F290,extended,67FCB000
+patch=1,EE,2064F294,extended,77042838
+patch=1,EE,2064F190,extended,67FCB000
+patch=1,EE,2064F194,extended,77042838
+
+[Cheats\Vehicles\Vehicles\Modified Compact]
+author=MrSJDDevelopments
+description=Modified Compact
+patch=1,EE,2064F290,extended,96878000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F290,extended,E3878000
+patch=1,EE,2064F294,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Modified Coupe]
+author=MrSJDDevelopments
+description=Modified Coupe
+patch=1,EE,2064F190,extended,E3878000
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Vehicles\Modified Muscle]
+author=MrSJDDevelopments
+description=Modified Muscle
+patch=1,EE,2064F290,extended,82878000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,82878000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Modified Sport]
+author=MrSJDDevelopments
+description=Modified Sport
+patch=1,EE,2064F290,extended,22878000
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,22878000
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Modified Super]
+author=MrSJDDevelopments
+description=Modified Super
+patch=1,EE,2064F290,extended,50878000
+patch=1,EE,2064F294,extended,B959BADE
+patch=1,EE,2064F190,extended,50878000
+patch=1,EE,2064F194,extended,B959BADE
+
+[Cheats\Vehicles\Vehicles\Modified Compact]
+author=MrSJDDevelopments
+description=Modified Compact
+patch=1,EE,2064F190,extended,96878000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Vehicles\Muscle]
+author=MrSJDDevelopments
+description=Muscle
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Muscle DX]
+author=MrSJDDevelopments
+description=Muscle DX
+patch=1,EE,2064F290,extended,8323C000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,8323C000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Muscle Prototype]
+author=MrSJDDevelopments
+description=Muscle Prototype
+patch=1,EE,2064F290,extended,82FCB000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,82FCB000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Muscle Type-1]
+author=MrSJDDevelopments
+description=Muscle Type-1
+patch=1,EE,2064F290,extended,81EB4000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,81EB4000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Muscle Type-2]
+author=MrSJDDevelopments
+description=Muscle Type-2
+patch=1,EE,2064F290,extended,82125000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,82125000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Muscle Type-3]
+author=MrSJDDevelopments
+description=Muscle Type-3
+patch=1,EE,2064F290,extended,82396000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,82396000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Vehicles\Oval Racer Special]
+author=MrSJDDevelopments
+description=Oval Racer Special
+patch=1,EE,2064F290,extended,A1153E00
+patch=1,EE,2064F294,extended,790798FB
+patch=1,EE,2064F190,extended,A1153E00
+patch=1,EE,2064F194,extended,790798FB
+
+[Cheats\Vehicles\Vehicles\Sport DX]
+author=MrSJDDevelopments
+description=Sport DX
+patch=1,EE,2064F290,extended,2323C000
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,2323C000
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Sport Prototype]
+author=MrSJDDevelopments
+description=Sport Prototype
+patch=1,EE,2064F290,extended,22FCB000
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,22FCB000
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Sport Type-1]
+author=MrSJDDevelopments
+description=Sport Type-1
+patch=1,EE,2064F290,extended,21EB4000
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,21EB4000
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Sport Type-2]
+author=MrSJDDevelopments
+description=Sport Type-2
+patch=1,EE,2064F290,extended,22125000
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,22125000
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Sport Type-3]
+author=MrSJDDevelopments
+description=Sport Type-3
+patch=1,EE,2064F290,extended,22396000
+patch=1,EE,2064F294,extended,B8A15FE9
+
+[Cheats\Vehicles\Vehicles\Special]
+author=MrSJDDevelopments
+description=Special
+patch=1,EE,2064F294,extended,790798FB
+patch=1,EE,2064F194,extended,790798FB
+
+[Cheats\Vehicles\Custom\Custom Compact]
+author=MrSJDDevelopments
+description=Custom Compact
+patch=1,EE,2064F290,extended,96AE9000
+patch=1,EE,2064F294,extended,5B55839B
+patch=1,EE,2064F190,extended,96AE9000
+patch=1,EE,2064F194,extended,5B55839B
+
+[Cheats\Vehicles\Custom\Custom Coupe]
+author=MrSJDDevelopments
+description=Custom Coupe
+patch=1,EE,2064F290,extended,E3AE9000
+patch=1,EE,2064F294,extended,5C3791C1
+patch=1,EE,2064F190,extended,E3AE9000
+patch=1,EE,2064F194,extended,5C3791C1
+
+[Cheats\Vehicles\Custom\Custom Coupe Ultimate]
+author=MrSJDDevelopments
+description=Custom Coupe Ultimate
+patch=1,EE,2064F290,extended,A1163800
+patch=1,EE,2064F294,extended,790798FB
+patch=1,EE,2064F190,extended,A1163800
+patch=1,EE,2064F194,extended,790798FB
+
+[Cheats\Vehicles\Custom\Custom Muscle]
+author=MrSJDDevelopments
+description=Custom Muscle
+patch=1,EE,2064F290,extended,82AE9000
+patch=1,EE,2064F294,extended,961647D1
+patch=1,EE,2064F190,extended,82AE9000
+patch=1,EE,2064F194,extended,961647D1
+
+[Cheats\Vehicles\Custom\Custom Sport]
+author=MrSJDDevelopments
+description=Custom Sport
+patch=1,EE,2064F290,extended,22AE9000
+patch=1,EE,2064F294,extended,B8A15FE9
+patch=1,EE,2064F190,extended,22AE9000
+patch=1,EE,2064F194,extended,B8A15FE9
+
+[Cheats\Vehicles\Custom\Custom Super]
+author=MrSJDDevelopments
+description=Custom Super
+patch=1,EE,2064F290,extended,50AE9000
+patch=1,EE,2064F294,extended,B959BADE
+patch=1,EE,2064F190,extended,50AE9000
+patch=1,EE,2064F194,extended,B959BADE
