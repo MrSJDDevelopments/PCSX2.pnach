@@ -1,97 +1,320 @@
 ##############################################################################
-################################# Bouncer, The ###############################
-################################## 07 Cheats #################################
+######################### Burnout 2 - Point of Impact ########################
+################################## 62 Cheats #################################
 ################################### PAL - M ##################################
 ##############################################################################
+[Cheats\1 Hit Kill]
+author=MrSJDDevelopments
+description=One Hit Kill - Pursuit
+patch=1,EE,EE35D18A,extended,1195D466
+patch=1,EE,203AA430,extended,41200000
+
+[Cheats\Cheat Unlock\Free Run]
+author=MrSJDDevelopments
+description=Unlock Free Run
+patch=1,EE,20365918,extended,00000000
+patch=1,EE,EE312272,extended,50B5D466
+
+[Cheats\Cheat Unlock\Runaway]
+author=MrSJDDevelopments
+description=Unlock Runaway
+patch=1,EE,EE31225E,extended,50B5D466
+patch=1,EE,2036590C,extended,00000000
+
+[Cheats\Cheat Unlock\Infinite Boost]
+author=MrSJDDevelopments
+description=Unlock Infinite Boost
+patch=1,EE,EE312266,extended,50B5D466
+patch=1,EE,20365914,extended,00000000
+patch=1,EE,EE32F3D6,extended,106DD466
+patch=1,EE,20398A04,extended,42C80000
+
+[Cheats\Cheat Unlock\Invulnerable]
+author=MrSJDDevelopments
+description=Unlock Invulnerable
+patch=1,EE,EE31226A,extended,50B5D466
+patch=1,EE,20365910,extended,00000000
 
 
 
 
 ##############################################################################
-################################## Trophy 1 ##################################
+#################################### Modes ###################################
+##############################################################################
+[Cheats\Mode\Unlock Face Off]
+author=MrSJDDevelopments
+description=Unlock Face Off
+patch=1,EE,EE312262,extended,50B5D466
+patch=1,EE,EE312506,extended,50B5D466
+
+[Cheats\Mode\Unlock Pursuit Mode]
+author=MrSJDDevelopments
+description=Unlock Pursuit Mode
+patch=1,EE,EE31226E,extended,50B5D466
+patch=1,EE,2036591C,extended,00000000
+
+[Cheats\Mode\Custom Series]
+author=MrSJDDevelopments
+description=Unlock Custom Series Champs
+patch=1,EE,EE31227A,extended,50B5D466
+patch=1,EE,20365920,extended,00000000
+
+[Cheats\Mode\Ofensive 101\All Gold]
+author=MrSJDDevelopments
+description=All Gold Medals In Offensive Driving 101
+patch=1,EE,2036592C,extended,00000002
+patch=1,EE,20365930,extended,00000002
+patch=1,EE,20365934,extended,00000002
+patch=1,EE,20365938,extended,00000002
+patch=1,EE,2036593C,extended,00000002
+patch=1,EE,20365940,extended,00000002
+patch=1,EE,20365944,extended,00000002
+patch=1,EE,EE31227E,extended,50B5D460
+patch=1,EE,EE31228A,extended,50B5D460
+patch=1,EE,EE312286,extended,50B5D460
+patch=1,EE,EE312292,extended,50B5D460
+patch=1,EE,EE31228E,extended,50B5D460
+patch=1,EE,EE31229A,extended,50B5D460
+patch=1,EE,EE312296,extended,50B5D460
+
+[Cheats\Mode\Crash\All Gold]
+author=MrSJDDevelopments
+description=Unlock All Gold
+patch=1,EE,EE287166,extended,50B5D461
+patch=1,EE,EE287172,extended,50B5D461
+patch=1,EE,EE28716E,extended,50B5D461
+patch=1,EE,EE28717A,extended,50B5D461
+patch=1,EE,EE287176,extended,50B5D461
+patch=1,EE,EE287182,extended,50B5D461
+patch=1,EE,EE28717E,extended,50B5D461
+patch=1,EE,EE28718A,extended,50B5D461
+patch=1,EE,EE287186,extended,50B5D461
+patch=1,EE,EE287192,extended,50B5D461
+patch=1,EE,EE28718E,extended,50B5D461
+patch=1,EE,EE28719A,extended,50B5D461
+patch=1,EE,EE287196,extended,50B5D461
+patch=1,EE,EE287122,extended,50B5D461
+patch=1,EE,EE28711E,extended,50B5D461
+patch=1,EE,203F0414,extended,00000003
+patch=1,EE,203F0418,extended,00000003
+patch=1,EE,203F041C,extended,00000003
+patch=1,EE,203F0420,extended,00000003
+patch=1,EE,203F0424,extended,00000003
+patch=1,EE,203F0428,extended,00000003
+patch=1,EE,203F042C,extended,00000003
+patch=1,EE,203F0430,extended,00000003
+patch=1,EE,203F0434,extended,00000003
+patch=1,EE,203F0438,extended,00000003
+patch=1,EE,203F043C,extended,00000003
+patch=1,EE,203F0440,extended,00000003
+patch=1,EE,203F0444,extended,00000003
+patch=1,EE,203F0448,extended,00000003
+patch=1,EE,203F044C,extended,00000003
+
+[Cheats\Mode\Crash\Insurance]
+author=MrSJDDevelopments
+description=Huge Insurance Score
+patch=1,EE,EE32EC2E,extended,D1B6D565
+patch=1,EE,20398F5C,extended,7FFFFFFF
+patch=1,EE,EE32F19A,extended,61138365
+patch=1,EE,20398440,extended,3B9AC9FF
+
+
+
+
+##############################################################################
+################################### Stage 1 ##################################
 ##############################################################################
 
-[Cheats\Trophy\Trophy 1\Trophy 1]
+[Cheats\Championships\Stage 1\Trophy 1]
 author=MrSJDDevelopments
 description=Unlock Trophy 1
 patch=1,EE,EE31250A,extended,50B5D466
 patch=1,EE,203658B0,extended,00000000
 
-[Cheats\Trophy\Trophy 1\99 Points T1]
+[Cheats\Championships\Stage 1\99 Points T1]
 author=MrSJDDevelopments
 description=99 Points In Trophy 1
-patch=1,EE,10364B40,extended,00000063
+patch=1,EE,10364B40,extended,00000063G
 
-[Cheats\Trophy\Trophy 1\99 Points CT1]
+[Cheats\Championships\Stage 1\Face Off]
+author=MrSJDDevelopments
+description=Unlock Face Off 1
+patch=1,EE,EE312506,extended,50B5D466
+patch=1,EE,203658B4,extended,00000000
+
+[Cheats\Championships\Stage 1\P2P]
+author=MrSJDDevelopments
+description=Unlock P2P1
+patch=1,EE,EE312512,extended,50B5D466
+patch=1,EE,203658B8,extended,00000000
+
+[Cheats\Championships\Stage 1\Pursuit]
+author=MrSJDDevelopments
+description=Unlock Pursuit 1
+patch=1,EE,EE31250E,extended,50B5D466
+patch=1,EE,203658BC,extended,00000000
+
+[Cheats\Custom Championships\Stage 1\Custom Trophy 1]
+author=MrSJDDevelopments
+description=Unlock Custom Trophy 1
+patch=1,EE,EE3125BE,extended,50B5D466
+patch=1,EE,203658EC,extended,00000000
+
+[Cheats\Custom Championships\Stage 1\99 Points CT1]
 author=MrSJDDevelopments
 description=99 Points In Custom Trophy 1
 patch=1,EE,10365428,extended,00000063
 
+[Cheats\Custom Championships\Stage 1\Pursuit 4]
+author=MrSJDDevelopments
+description=Unlock Persuit 4
+patch=1,EE,EE3125CA,extended,50B5D466
+patch=1,EE,203658F0,extended,00000000
+
 
 
 
 ##############################################################################
-################################## Trophy 2 ##################################
+################################### Stage 2 ##################################
 ##############################################################################
 
-[Cheats\Trophy\Trophy 2\Trophy 2]
+[Cheats\Championships\Stage 2\Trophy 2]
 author=MrSJDDevelopments
 description=Unlock Trophy 2
 patch=1,EE,EE31251A,extended,50B5D466
 patch=1,EE,203658C0,extended,00000000
 
-[Cheats\Trophy\Trophy 2\99 Points T2]
+[Cheats\Championships\Stage 2\99 Points T2]
 author=MrSJDDevelopments
 description=99 Points In Trophy 2
 patch=1,EE,10364DA0,extended,00000063
 
-[Cheats\Trophy\Trophy 2\99 Points CT2]
+[Cheats\Championships\Stage 2\Face Off]
+author=MrSJDDevelopments
+description=Unlock Face Off 2
+patch=1,EE,EE312516,extended,50B5D466
+patch=1,EE,203658C4,extended,00000000
+
+[Cheats\Championships\Stage 2\P2P]
+author=MrSJDDevelopments
+description=Unlock P2P2
+patch=1,EE,EE3125A2,extended,50B5D466
+patch=1,EE,203658C8,extended,00000000
+
+[Cheats\Championships\Stage 2\Pursuit]
+author=MrSJDDevelopments
+description=Unlock Pursuit 2
+patch=1,EE,EE31259E,extended,50B5D466
+patch=1,EE,203658CC,extended,00000000
+
+[Cheats\Custom Championships\Stage 2\Custom Trophy 2]
+author=MrSJDDevelopments
+description=Unlock Custom Trophy 2
+patch=1,EE,EE3125C6,extended,50B5D466
+patch=1,EE,203658F4,extended,00000000
+
+[Cheats\Custom Championships\Stage 2\99 Points CT2]
 author=MrSJDDevelopments
 description=99 Points In Custom Trophy 2
 patch=1,EE,10365558,extended,00000063
 
+[Cheats\Custom Championships\Stage 2\Pursuit 5]
+author=MrSJDDevelopments
+description=Unlock Pursuit 5
+patch=1,EE,203658F8,extended,00000000
+patch=1,EE,EE3125D2,extended,50B5D466
+
 
 
 
 ##############################################################################
-################################## Trophy 3 ##################################
+################################### Stage 3 ##################################
 ##############################################################################
 
-[Cheats\Trophy\Trophy 3\Trophy 3]
+[Cheats\Championships\Stage 3\Trophy 3]
 author=MrSJDDevelopments
 description=Unlock Trophy 3
 patch=1,EE,EE3125AA,extended,50B5D466
 patch=1,EE,203658D0,extended,00000000
 
-[Cheats\Trophy\Trophy 3\99 Points T3]
+[Cheats\Championships\Stage 3\99 Points T3]
 author=MrSJDDevelopments
 description=99 Points In Trophy 3
 patch=1,EE,10365000,extended,00000063
 
-[Cheats\Trophy\Trophy 3\99 Points CT3]
+[Cheats\Championships\Stage 3\Face Off]
+author=MrSJDDevelopments
+description=Unlock Face Off 3
+patch=1,EE,EE3125A6,extended,50B5D466
+patch=1,EE,203658D4,extended,00000000
+
+[Cheats\Championships\Stage 3\P2P]
+author=MrSJDDevelopments
+description=Unlock P2P3
+patch=1,EE,EE3125B2,extended,50B5D466
+patch=1,EE,203658D8,extended,00000000
+
+[Cheats\Championships\Stage 3\Pursuit]
+author=MrSJDDevelopments
+description=Unlock Pursuit 3
+patch=1,EE,EE3125AE,extended,50B5D466
+patch=1,EE,203658DC,extended,00000000
+
+[Cheats\Custom Championships\Stage 3\Custom Trophy 3]
+author=MrSJDDevelopments
+description=Unlock Custom Trophy 3
+patch=1,EE,EE3125CE,extended,50B5D466
+patch=1,EE,203658FC,extended,00000000
+
+[Cheats\Custom Championships\Stage 3\99 Points CT3]
 author=MrSJDDevelopments
 description=99 Points In Custom Trophy 3
 patch=1,EE,10365688,extended,00000063
 
+[Cheats\Custom Championships\Stage 3\Pursuit 6]
+author=MrSJDDevelopments
+description=Unlock Persuit 6
+patch=1,EE,EE3122DA,extended,50B5D466
+patch=1,EE,20365900,extended,00000000
+
 
 
 
 ##############################################################################
-################################## Trophy 4 ##################################
+################################### Stage 4 ##################################
 ##############################################################################
 
-[Cheats\Trophy\Trophy 4\Trophy 4]
+[Cheats\Championships\Stage 4\Trophy 4]
 author=MrSJDDevelopments
 description=Unlock Trophy 4
 patch=1,EE,EE3125BA,extended,50B5D466
 patch=1,EE,203658E0,extended,00000000
 
-[Cheats\Trophy\Trophy 4\99 Points T4]
+[Cheats\Championships\Stage 4\99 Points T4]
 author=MrSJDDevelopments
 description=99 Points In Trophy 4
 patch=1,EE,10365260,extended,00000063
 
-[Cheats\Trophy\Trophy 4\99 Points CT4]
+[Cheats\Championships\Stage 4\Face Off]
+author=MrSJDDevelopments
+description=Unlock Face Off 4
+patch=1,EE,EE3125B6,extended,50B5D466
+patch=1,EE,203658E4,extended,00000000
+
+[Cheats\Championships\Stage 4\Custom Qualifier]
+author=MrSJDDevelopments
+description=Unlock Custom Qualifier
+patch=1,EE,EE3125C2,extended,50B5D466
+patch=1,EE,203658E8,extended,00000000
+
+[Cheats\Custom Championships\Stage 4\Custom Trophy 4]
+author=MrSJDDevelopments
+description=Unlock Custom Trophy 4
+patch=1,EE,EE3122D6,extended,50B5D466
+patch=1,EE,20365904,extended,00000000
+
+[Cheats\Custom Championships\Stage 4\99 Points CT4]
 author=MrSJDDevelopments
 description=99 Points In Custom Trophy 4
 patch=1,EE,103657B8,extended,00000063
@@ -99,4 +322,166 @@ patch=1,EE,103657B8,extended,00000063
 
 
 
+##############################################################################
+################################## Vehicles ##################################
+##############################################################################
 
+[Cheats\Vehicles\Classic]
+author=MrSJDDevelopments
+description=Classic
+patch=1,EE,EE32F1DA,extended,50B5D471
+patch=1,EE,2036582C,extended,00000000
+patch=1,EE,20398400,extended,00000013
+patch=1,EE,EE31257E,extended,50B5D466
+
+[Cheats\Vehicles\Compact]
+author=MrSJDDevelopments
+description=Compact
+patch=1,EE,EE32F1DA,extended,50B5D466
+patch=1,EE,20398400,extended,00000000
+
+[Cheats\Vehicles\Cop Car]
+author=MrSJDDevelopments
+description=Cop Car
+patch=1,EE,EE32F1DA,extended,50B5D474
+patch=1,EE,20365818,extended,00000000
+patch=1,EE,20398400,extended,0000000E
+patch=1,EE,EE312572,extended,50B5D466
+
+[Cheats\Vehicles\Coupe]
+author=MrSJDDevelopments
+description=Coupe
+patch=1,EE,EE32F1DA,extended,50B5D467
+patch=1,EE,20398400,extended,00000001
+
+[Cheats\Custom Vehicles\Drivers Ed Car]
+author=MrSJDDevelopments
+description=Drivers Ed Car
+patch=1,EE,20365834,extended,00000000
+patch=1,EE,EE312586,extended,50B5D466
+
+[Cheats\Vehicles\Gangster]
+author=MrSJDDevelopments
+description=Gangster
+patch=1,EE,EE32F1DA,extended,50B5D472
+patch=1,EE,20365830,extended,00000000
+patch=1,EE,20398400,extended,00000014
+patch=1,EE,EE31258A,extended,50B5D466
+
+[Cheats\Vehicles\Hot Rod]
+author=MrSJDDevelopments
+description=Hot Rod
+patch=1,EE,EE32F1DA,extended,50B5D475
+patch=1,EE,20398400,extended,0000000F
+patch=1,EE,2036581C,extended,00000000
+patch=1,EE,EE31256E,extended,50B5D466
+
+[Cheats\Vehicles\Japanese Muscle]
+author=MrSJDDevelopments
+description=Japanese Muscle
+patch=1,EE,EE32F1DA,extended,50B5D477
+patch=1,EE,20365824,extended,00000000
+patch=1,EE,20398400,extended,00000011
+patch=1,EE,EE312576,extended,50B5D466
+
+[Cheats\Vehicles\Muscle]
+author=MrSJDDevelopments
+description=Muscle
+patch=1,EE,EE32F1DA,extended,50B5D463
+patch=1,EE,20398400,extended,00000005
+
+[Cheats\Vehicles\Oval Racer]
+author=MrSJDDevelopments
+description=Oval Racer
+patch=1,EE,EE32F1DA,extended,50B5D476
+patch=1,EE,20365820,extended,00000000
+patch=1,EE,20398400,extended,00000010
+patch=1,EE,EE31257A,extended,50B5D466
+
+[Cheats\Vehicles\Pickup]
+author=MrSJDDevelopments
+description=Pickup
+patch=1,EE,EE32F1DA,extended,50B5D462
+patch=1,EE,20398400,extended,00000004
+
+[Cheats\Custom Vehicles\Roadster]
+author=MrSJDDevelopments
+description=Roadster
+patch=1,EE,EE32F1DA,extended,50B5D461
+patch=1,EE,20398400,extended,00000003
+
+[Cheats\Vehicles\Sport]
+author=MrSJDDevelopments
+description=Sport
+patch=1,EE,EE32F1DA,extended,50B5D460
+patch=1,EE,20398400,extended,00000002
+
+[Cheats\Vehicles\Supercar]
+author=MrSJDDevelopments
+description=Supercar
+patch=1,EE,EE32F1DA,extended,50B5D470
+patch=1,EE,20365828,extended,00000000
+patch=1,EE,20398400,extended,00000012
+patch=1,EE,EE312582,extended,50B5D466
+
+[Cheats\Vehicles\Suv]
+author=MrSJDDevelopments
+description=Suv
+patch=1,EE,EE32F1DA,extended,50B5D47C
+patch=1,EE,20398400,extended,00000006
+
+[Cheats\Custom Vehicles\Compact
+author=MrSJDDevelopments
+description=Custom Compact
+patch=1,EE,EE32F1DA,extended,50B5D47D
+patch=1,EE,203657FC,extended,00000000
+patch=1,EE,20398400,extended,00000007
+patch=1,EE,EE3124CE,extended,50B5D466
+
+[Cheats\Custom Vehicles\Coupe]
+author=MrSJDDevelopments
+description=Custom Coupe
+patch=1,EE,EE32F1DA,extended,50B5D47E
+patch=1,EE,20365800,extended,00000000
+patch=1,EE,20398400,extended,00000008
+patch=1,EE,EE3125DA,extended,50B5D466
+
+[Cheats\Custom Vehicles\Muscle]
+author=MrSJDDevelopments
+description=Custom Muscle
+patch=1,EE,EE32F1DA,extended,50B5D47A
+patch=1,EE,20365810,extended,00000000
+patch=1,EE,20398400,extended,0000000C
+patch=1,EE,EE31256A,extended,50B5D466
+
+[Cheats\Custom Vehicles\Pickup]
+author=MrSJDDevelopments
+description=Custom Pickup
+patch=1,EE,EE32F1DA,extended,50B5D479
+patch=1,EE,2036580C,extended,00000000
+patch=1,EE,20398400,extended,0000000B
+patch=1,EE,EE31255E,extended,50B5D466
+
+[Cheats\Custom Vehicles\Roadster]
+author=MrSJDDevelopments
+description=Custom Roadster
+patch=1,EE,EE32F1DA,extended,50B5D478
+patch=1,EE,20365808,extended,00000000
+patch=1,EE,20398400,extended,0000000A
+patch=1,EE,EE312562,extended,50B5D466
+
+[Cheats\Custom Vehicles\Sport]
+author=MrSJDDevelopments
+description=Custom Sport
+patch=1,EE,EE32F1DA,extended,50B5D47F
+patch=1,EE,20365804,extended,00000000
+patch=1,EE,20398400,extended,00000009
+patch=1,EE,EE3125D6,extended,50B5D466
+
+[Cheats\Custom Vehicles\Suv]
+author=MrSJDDevelopments
+description=Custom Suv
+patch=1,EE,EE32F1DA,extended,50B5D47B
+patch=1,EE,20365814,extended,00000000
+patch=1,EE,20398400,extended,0000000D
+patch=1,EE,EE312566,extended,50B5D466
