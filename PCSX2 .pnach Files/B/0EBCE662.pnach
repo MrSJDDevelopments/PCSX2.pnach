@@ -1,0 +1,102 @@
+##############################################################################
+################################# Bouncer, The ###############################
+################################## 07 Cheats #################################
+################################### PAL - M ##################################
+##############################################################################
+
+
+
+
+##############################################################################
+################################## Trophy 1 ##################################
+##############################################################################
+
+[Cheats\Trophy\Trophy 1\Trophy 1]
+author=MrSJDDevelopments
+description=Unlock Trophy 1
+patch=1,EE,EE31250A,extended,50B5D466
+patch=1,EE,203658B0,extended,00000000
+
+[Cheats\Trophy\Trophy 1\99 Points T1]
+author=MrSJDDevelopments
+description=99 Points In Trophy 1
+patch=1,EE,10364B40,extended,00000063
+
+[Cheats\Trophy\Trophy 1\99 Points CT1]
+author=MrSJDDevelopments
+description=99 Points In Custom Trophy 1
+patch=1,EE,10365428,extended,00000063
+
+
+
+
+##############################################################################
+################################## Trophy 2 ##################################
+##############################################################################
+
+[Cheats\Trophy\Trophy 2\Trophy 2]
+author=MrSJDDevelopments
+description=Unlock Trophy 2
+patch=1,EE,EE31251A,extended,50B5D466
+patch=1,EE,203658C0,extended,00000000
+
+[Cheats\Trophy\Trophy 2\99 Points T2]
+author=MrSJDDevelopments
+description=99 Points In Trophy 2
+patch=1,EE,10364DA0,extended,00000063
+
+[Cheats\Trophy\Trophy 2\99 Points CT2]
+author=MrSJDDevelopments
+description=99 Points In Custom Trophy 2
+patch=1,EE,10365558,extended,00000063
+
+
+
+
+##############################################################################
+################################## Trophy 3 ##################################
+##############################################################################
+
+[Cheats\Trophy\Trophy 3\Trophy 3]
+author=MrSJDDevelopments
+description=Unlock Trophy 3
+patch=1,EE,EE3125AA,extended,50B5D466
+patch=1,EE,203658D0,extended,00000000
+
+[Cheats\Trophy\Trophy 3\99 Points T3]
+author=MrSJDDevelopments
+description=99 Points In Trophy 3
+patch=1,EE,10365000,extended,00000063
+
+[Cheats\Trophy\Trophy 3\99 Points CT3]
+author=MrSJDDevelopments
+description=99 Points In Custom Trophy 3
+patch=1,EE,10365688,extended,00000063
+
+
+
+
+##############################################################################
+################################## Trophy 4 ##################################
+##############################################################################
+
+[Cheats\Trophy\Trophy 4\Trophy 4]
+author=MrSJDDevelopments
+description=Unlock Trophy 4
+patch=1,EE,EE3125BA,extended,50B5D466
+patch=1,EE,203658E0,extended,00000000
+
+[Cheats\Trophy\Trophy 4\99 Points T4]
+author=MrSJDDevelopments
+description=99 Points In Trophy 4
+patch=1,EE,10365260,extended,00000063
+
+[Cheats\Trophy\Trophy 4\99 Points CT4]
+author=MrSJDDevelopments
+description=99 Points In Custom Trophy 4
+patch=1,EE,103657B8,extended,00000063
+
+
+
+
+
